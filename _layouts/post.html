@@ -5,8 +5,10 @@ layout: default
 <div class="blogpost">
 	<div class="blogheader">
 		<h1 class="blogtitle">{{ page.title }}</h1>
-		<h4 class="blogmeta">Posted on <span>{{ page.date | date: %b %d %Y }} by {{ page.author }}</span></h4>
+		<h4 class="blogmeta">Posted on <span>{{ page.date | date: "%b %d %Y" }}</span></h4>
+		{% if page.tags != empty %}
 		<h4 class="blogmeta">Tagged as {{ page.tags }}</h4>
+		{% endif %}
 	</div>
 	
 	<div class="blogbody">
