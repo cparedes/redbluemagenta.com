@@ -1,0 +1,9 @@
+--- 
+wordpress_id: "337"
+layout: post
+title: Sad days
+wordpress_url: http://blog.redbluemagenta.com/?p=143
+---
+OiNK's Pink Palace is no more. :(
+
+(This was my mecca for finding music of all sorts in high quality bit rates.  It has since been shut down by the IFPI just last night.)
