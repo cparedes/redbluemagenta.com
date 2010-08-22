@@ -2,7 +2,6 @@
 layout: default
 title: redbluemagenta
 blurb: Ian is a SAGE Level II System Administrator.
-frontpage: true
 ---
 
 I'm a junior systems administrator working mostly with BSD and Linux systems,

@@ -4,6 +4,9 @@
 <head>
 	{% include meta.html %}
 	{% include googleanalytics.html %}
+	<script type="text/javascript">
+		var disqus_developer = 1;
+	</script>
 </head>
 
 <body>
@@ -16,5 +19,15 @@
 			{% include body.html %}
 			{% include footer.html %}
 		</div>
+
+<script type="text/javascript">
+var disqus_shortname = 'redbluemagenta';
+(function () {
+  var s = document.createElement('script'); s.async = true;
+  s.src = 'http://disqus.com/forums/redbluemagenta/count.js';
+  (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
 </body>
 </html>

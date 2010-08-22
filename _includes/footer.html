@@ -7,9 +7,10 @@
 	</ul>
 	<ul id="metarecentposts">
 		<li><h3>Recent Posts</h3></li>
-		{% for post in site.posts limit:5 %}
+		{% for post in site.posts limit:3 %}
 		<li><a href="{{ post.url }}">{{ post.title | xml_escape }}</a></li>
 		{% endfor %}
+		<li><a href="/archive.html">more...</a></li>
 	</ul>
 	<ul id="metasubscribe">
 		<li><h3>Subscribe</h3></li>
