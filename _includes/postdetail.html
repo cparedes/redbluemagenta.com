@@ -1,0 +1,11 @@
+<div id="{{ post.id }}" class="blogpost">
+	<div class="blogheader">
+		<h1 class="blogtitle"><a href="{{ post.url }}">{{ page.title }}</a></h1>
+		<h4 class="blogmeta">Posted on <span>{{ page.date | date: %b %d %Y }} by {{ page.author }}</span></h4>
+		<h4 class="blogmeta">Tagged as {{ page.tags }}</h4>
+	</div>
+	
+	<div class="blogbody">
+		{{ post.content }}
+	</div>
+</div>
