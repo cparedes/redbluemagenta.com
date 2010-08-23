@@ -39,16 +39,20 @@ About Ian Paredes
 -----------------
 
 I currently work for [3TIER] [4] as a systems administrator. I also administer
-an OpenBSD router for Cafe Allegro with two other volunteer sysadmins. I
+an OpenBSD router for [Cafe Allegro][5] with two other volunteer sysadmins. I
 design a few websites as a hobby with XHTML and CSS, and I occasionally
 volunteer my time for various nonprofit and academic organizations, such as
-[The Critical Gaming Project] [5] and [Noise for the Needy] [6]. I also
+[The Critical Gaming Project] [6] and [Noise for the Needy] [7]. I also
 program in Ruby as a hobby, and more often than not, they are usually apps
 on Ruby on Rails.
+
+[Read more...][8]
 
 [1]: http://sage.org
 [2]: http://lopsa.org
 [3]: http://www.sage.org/field/jobs-descriptions.html
 [4]: http://3tier.com
-[5]: http://depts.washington.edu/critgame
-[6]: http://noisefortheneedy.org
+[5]: http://seattleallegro.com
+[6]: http://depts.washington.edu/critgame
+[7]: http://noisefortheneedy.org
+[8]: /about.html

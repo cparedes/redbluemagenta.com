@@ -6,8 +6,12 @@ layout: default
 	<div class="blogheader">
 		<h1 class="blogtitle">{{ page.title }}</h1>
 		<h4 class="blogmeta">Posted on <span>{{ page.date | date: "%b %d %Y" }}</span></h4>
-		{% if page.tags != empty %}
-		<h4 class="blogmeta">Tagged as {{ page.tags }}</h4>
+		{% if page.categories != empty %}
+		<h4 class="blogmeta">Filed under
+		{% for category in page.categories %}
+		<a href="/categories/{{ category }}.html">{{ category }}</a>
+		{% endfor %}
+		</h4>
 		{% endif %}
 	</div>
 	
@@ -28,4 +32,4 @@ layout: default
   })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=redbluemagenta">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<p><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a></p>

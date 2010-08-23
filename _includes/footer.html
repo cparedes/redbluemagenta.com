@@ -1,9 +1,10 @@
 <div class="pageMeta">
-	<ul id="metatags">
+	<ul id="metacategories">
 		<li><h3>Categories</h3></li>
 		{% for category in site.categories limit:5 %}
-		<li><a href="/tags/{{ category[0] }}.html">{{ category[0] }}</a><li>
+		<li><a href="/categories/{{ category[0] }}.html">{{ category[0] }}</a><li>
 		{% endfor %}
+		<li><a href="/categories/">more...</a></li>
 	</ul>
 	<ul id="metarecentposts">
 		<li><h3>Recent Posts</h3></li>
@@ -18,5 +19,5 @@
 		<li><a href="http://twitter.com/redbluemagenta"><img src="/images/twitter.png" width="12" height="12" class="regular" /> Twitter</a></li>
 	</ul>
 	
-	<p class="credits">Site design by Christian Paredes, heavily inspired by <a href="http://cameron.io">cameron.io</a>, (c) 2010.  Powered by Jekyll.</p>
+	<p class="credits">Site design by Christian Paredes, heavily inspired by <a href="http://cameron.io">cameron.io</a>, (c) 2010.  Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>.</p>
 </div>

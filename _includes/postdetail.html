@@ -1,11 +1,11 @@
 <div id="{{ post.id }}" class="blogpost">
 	<div class="blogheader">
 		<h1 class="blogtitle"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<h4 class="blogmeta">Posted on <span>{{ post.date | date: "%b %d %Y" }}</span></h4>
+		<h4 class="blogmeta">Posted on <span>{{ post.date | date: "%B %d, %Y" }}</span></h4>
 		{% if post.categories != empty %}
 		<h4 class="blogmeta">Filed under
 		{% for category in post.categories %}
-		<a href="/tags/{{ category }}.html">{{ category }}</a> 
+		<a href="/categories/{{ category }}.html">{{ category }}</a> 
 		{% endfor %}
 		</h4>
 		{% endif %}
