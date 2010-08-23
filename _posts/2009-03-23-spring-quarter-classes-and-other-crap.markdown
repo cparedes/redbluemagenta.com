@@ -5,7 +5,7 @@ categories:
 - Classes
 - Reflection
 - School
-- seattle university
+- Seattle University
 - Uw
 ---
 Twenty credits.  Here they are:

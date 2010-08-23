@@ -3,7 +3,7 @@ layout: post
 title: Puppet
 categories:
 - Computers
-- configuration management
+- Configuration Management
 - Puppet
 - Ruby
 - Systems Administration

@@ -2,7 +2,7 @@
 layout: post
 title: "Twitter: An unneeded wrench in an already overloaded machine"
 categories:
-- information overload
+- Information Overload
 - Mcluhan
 - Rant
 - Relevancy

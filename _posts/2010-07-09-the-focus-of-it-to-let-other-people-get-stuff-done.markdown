@@ -2,7 +2,7 @@
 layout: post
 title: "The focus of IT: to let other people get stuff done"
 categories:
-- computer nazi
+- Computer Nazi
 - Computers
 - Rant
 - Systems Administration

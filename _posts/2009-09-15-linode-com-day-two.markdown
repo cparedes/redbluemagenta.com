@@ -2,7 +2,7 @@
 layout: post
 title: "Linode.com: Day Two"
 categories:
-- arch linux
+- Arch Linux
 - Computers
 - Debian
 - Linode

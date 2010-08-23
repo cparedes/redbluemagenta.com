@@ -2,7 +2,7 @@
 layout: post
 title: What's going on these days
 categories:
-- arch linux
+- Arch Linux
 - Centos
 - Computers
 - Fedora

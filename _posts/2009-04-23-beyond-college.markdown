@@ -4,7 +4,7 @@ title: Beyond College?
 categories:
 - Education
 - Engineering
-- graduate school
+- Graduate School
 - It
 - School
 - Statistics

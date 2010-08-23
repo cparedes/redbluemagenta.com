@@ -4,7 +4,7 @@ title: The present reasons why I am not interested in teaching in the school sys
 categories:
 - Education
 - Mediocrity
-- public school
+- Public School
 - Rant
 - Teaching
 ---

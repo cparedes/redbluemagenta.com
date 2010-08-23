@@ -2,7 +2,7 @@
 layout: post
 title: A response to a response to my comment on another blog
 categories:
-- analytic feminism
+- Analytic Feminism
 - Feminism
 - Philosophy
 - Rant

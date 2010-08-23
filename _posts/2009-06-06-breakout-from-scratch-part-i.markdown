@@ -3,7 +3,7 @@ layout: post
 title: Breakout from scratch, part I
 categories:
 - Breakout
-- game development
+- Game Development
 - Games
 - Programming
 ---

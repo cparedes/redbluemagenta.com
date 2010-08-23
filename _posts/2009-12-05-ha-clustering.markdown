@@ -3,7 +3,7 @@ layout: post
 title: HA Clustering
 categories:
 - Computers
-- high availability clusters
+- High Availability Clusters
 - Networks
 - Systems Administration
 ---

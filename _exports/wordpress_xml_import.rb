@@ -43,7 +43,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and wp:post_type = 'po
 
      categories.collect! { |x|
 	if (x.split.length > 1)
-		x.each(" ") { |y| y.capitalize }
+		x.split.each { |y| y.capitalize! }.join(" ")
 	else
 		x.capitalize
 	end

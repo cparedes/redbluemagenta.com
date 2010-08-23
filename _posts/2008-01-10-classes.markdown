@@ -4,8 +4,8 @@ title: Classes
 categories:
 - Aristotle
 - Classes
-- comparative history of ideas
-- differential geometry
+- Comparative History Of Ideas
+- Differential Geometry
 - English
 - Film
 - Math

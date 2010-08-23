@@ -4,7 +4,7 @@ title: "Solutions to Project Euler Problems #1 and #2"
 categories:
 - Math
 - Programming
-- project euler
+- Project Euler
 ---
 Site: <a href="http://projecteuler.net/">http://projecteuler.net/</a>
 

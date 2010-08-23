@@ -2,7 +2,7 @@
 layout: post
 title: Magpies found to be self-aware, and overall animal rights
 categories:
-- animal rights
+- Animal Rights
 - Magpies
 - Science
 ---

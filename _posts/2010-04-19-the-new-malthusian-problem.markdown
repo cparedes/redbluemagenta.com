@@ -3,7 +3,7 @@ layout: post
 title: The New Malthusian Problem
 categories:
 - College
-- malthusian problem
+- Malthusian Problem
 - Rant
 ---
 I want everyone to read <a href="http://www.neogaf.com/forum/showpost.php?p=20693637&postcount=154">this post</a> on NeoGAF and then proceed to read the rest of this post.  The post on NeoGAF is about "university as a business" and the oversaturation of college graduates; it is a startling and quite insightful view on the state of American education, and how we are digging ourselves a grave with our never ending cycle of degree requirements in the industry and the promise of American education to fulfill that end.

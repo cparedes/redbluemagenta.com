@@ -2,10 +2,10 @@
 layout: post
 title: Thoughts on game server fault tolerance
 categories:
-- fault tolerance
-- game server administration
+- Fault Tolerance
+- Game Server Administration
 - Games
-- state preservation
+- State Preservation
 - Systems Administration
 ---
 There has been several efforts to address the issue of ensuring fault tolerance for game servers; one approach is to introduce <a href="http://www.cs.colorado.edu/~mishras/research/ft_tcp.html">a new protocol based on TCP</a> that has extra checks to ensure fault tolerance.  <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.98.8585&rep=rep1&type=pdf">Another approach</a> is to section off the game world and structure it so that there are several zones, with each zone maintained by a different authority.

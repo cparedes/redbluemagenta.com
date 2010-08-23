@@ -2,7 +2,7 @@
 layout: post
 title: "\"Best Practices\""
 categories:
-- best practices
+- Best Practices
 - Computers
 ---
 Just wanted to refer to an essay regarding the phrase "best practices": <a href="http://www.satisfice.com/blog/archives/27">http://www.satisfice.com/blog/archives/27</a>

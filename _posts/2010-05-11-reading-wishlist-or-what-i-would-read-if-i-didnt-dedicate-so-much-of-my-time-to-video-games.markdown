@@ -2,16 +2,16 @@
 layout: post
 title: Reading wishlist, or, what I would read if I didn't dedicate so much of my time to video games
 categories:
-- david foster wallace
-- fyodor dostoyevsky
-- immanuel kant
-- leo tolstoy
+- David Foster Wallace
+- Fyodor Dostoyevsky
+- Immanuel Kant
+- Leo Tolstoy
 - Literature
-- mary shelley
-- philip k dick
+- Mary Shelley
+- Philip K Dick
 - Philosophy
-- reading list
-- sheldon ross
+- Reading List
+- Sheldon Ross
 ---
 I've been keeping a mental list of books I've been meaning to read and will hopefully start reading sometime in the near future.  It's been way too long that I've read books out of my own interest and enjoyment rather than for work or for school, and so I want to get this jump started again for my own sake.
 

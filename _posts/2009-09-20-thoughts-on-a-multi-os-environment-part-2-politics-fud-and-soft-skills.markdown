@@ -7,7 +7,7 @@ categories:
 - Linux
 - Management
 - Politics
-- soft skills
+- Soft Skills
 - Windows
 ---
 <p>As a help desk technician, I sometimes forget about some of the issues when it comes to managing staff, budgets, and other things of that sort.  Usually I strive for technically excellent solutions which make sense for the end user, and when such a thing does not exist, I try to at least get the end user to be as productive as possible at the lowest level possible (does the computer turn on, can I type and save my reports, etc.)</p>

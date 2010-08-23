@@ -2,8 +2,8 @@
 layout: post
 title: Preliminary Reading in Computer Vision
 categories:
-- cat recognition
-- computer vision
+- Cat Recognition
+- Computer Vision
 - Computers
 - Math
 ---

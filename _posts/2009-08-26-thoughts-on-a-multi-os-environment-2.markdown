@@ -2,7 +2,7 @@
 layout: post
 title: Thoughts on a multi-OS environment
 categories:
-- active directory
+- Active Directory
 - Computers
 - Freebsd
 - Linux

@@ -2,10 +2,10 @@
 layout: post
 title: Open Source as an IT strategy, and not as a product
 categories:
-- closed source
+- Closed Source
 - Computers
 - Linux
-- open source
+- Open Source
 - Oss
 - Rant
 - Strategy

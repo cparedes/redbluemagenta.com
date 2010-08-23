@@ -3,9 +3,9 @@ layout: post
 title: A possible universal packaging system for *nix operating systems
 categories:
 - Bsd
-- configuration management
+- Configuration Management
 - Linux
-- package management
+- Package Management
 - Pkgsrc
 - Ports
 - Systems Administration

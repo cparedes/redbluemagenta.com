@@ -2,7 +2,7 @@
 layout: post
 title: Fixing USB Boot for Arch Linux
 categories:
-- arch linux
+- Arch Linux
 - Computers
 - Fix
 - Usb
