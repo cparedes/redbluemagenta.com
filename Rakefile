@@ -1,3 +1,11 @@
+desc 'Run all tasks'
+task :default => [:tags, :commit]
+
+desc 'Commit all files'
+task :commit do
+	sh "git commit -am 'Committing files' ; git push"
+end
+
 desc 'Generate tags page'
 task :tags do
   puts "Generating tags..."
