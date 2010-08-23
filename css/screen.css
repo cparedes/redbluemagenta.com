@@ -98,7 +98,7 @@ blockquote {
 	width:400px;
 	margin:0 auto;
 	clear:both;
-	background:url("images/blockquote.png") top left no-repeat;
+	background:url("/images/blockquote.png") top left no-repeat;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -185,13 +185,13 @@ h6 {
 	position:absolute; left:40px; top:45px; z-index:1;
 	margin:0;
 	padding:0;
-	background:url("images/rbm.png") top left no-repeat;
+	background:url("/images/rbm.png") top left no-repeat;
 	width:160px;
 	height:20px;
 }
 
 #rbm a:hover span {
-	background:url("images/rbm_hover.png") top left no-repeat;
+	background:url("/images/rbm_hover.png") top left no-repeat;
 	position:absolute; left:40px; top:45px; z-index:1;
 	margin:0;
 	padding:0;

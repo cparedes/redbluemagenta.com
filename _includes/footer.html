@@ -1,8 +1,8 @@
 <div class="pageMeta">
 	<ul id="metatags">
-		<li><h3>Tags</h3></li>
-		{% for tag in site.tags limit:5 %}
-		<li>{{ tag }}<li>
+		<li><h3>Categories</h3></li>
+		{% for category in site.categories limit:5 %}
+		<li><a href="/tags/{{ category[0] }}.html">{{ category[0] }}</a><li>
 		{% endfor %}
 	</ul>
 	<ul id="metarecentposts">
@@ -14,7 +14,8 @@
 	</ul>
 	<ul id="metasubscribe">
 		<li><h3>Subscribe</h3></li>
-		<li><a href="http://twitter.com/redbluemagenta"><img src="/images/twitter.png" /> Twitter</a></li>
+		<li><a href="/atom.xml"><img src="/images/feed.png" class="regular" /> Atom Feed</a></li>
+		<li><a href="http://twitter.com/redbluemagenta"><img src="/images/twitter.png" width="12" height="12" class="regular" /> Twitter</a></li>
 	</ul>
 	
 	<p class="credits">Site design by Christian Paredes, heavily inspired by <a href="http://cameron.io">cameron.io</a>, (c) 2010.  Powered by Jekyll.</p>
