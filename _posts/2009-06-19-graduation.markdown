@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "448"
 layout: post
 title: Graduation
-wordpress_url: http://blog.redbluemagenta.com/?p=241
+categories:
+- Graduation
+- School
 ---
 I suppose I should write something about this topic.
 

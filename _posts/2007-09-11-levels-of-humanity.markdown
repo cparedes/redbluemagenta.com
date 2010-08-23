@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "313"
 layout: post
 title: Levels of humanity
-wordpress_url: http://blog.redbluemagenta.com/?p=89
+categories:
+- Human Interaction
+- Philosophy
+- Religion
 ---
 (NOTE: I'm not religious at all.  It could possibly be construed that I am from this post, but... yeah, I'm not. :p)
 

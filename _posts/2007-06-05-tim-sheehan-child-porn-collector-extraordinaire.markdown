@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "279"
 layout: post
 title: "Tim Sheehan: child porn collector extraordinaire"
-wordpress_url: http://blog.redbluemagenta.com/?p=83
+categories:
+- Random
 ---
 Well, holy crap.  My former history teacher from Whitman Middle School <a href="http://www.kirotv.com/news/13448390/detail.html">was busted for having child porn on his laptop</a>.
 

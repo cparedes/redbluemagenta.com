@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "631"
 layout: post
 title: Monthly blog archives in Rails using by_star
-wordpress_url: http://www.redbluemagenta.com/?p=631
+categories:
+- By_star
+- Enki
+- Programming
+- Rails
+- Ruby
 ---
 <em>(EDIT: Credit for part of the show method goes to <a href="http://stackoverflow.com/questions/2726525/group-and-sort-blog-posts-by-date-in-rails">Senthil on Stack Overflow</a>.)</em>
 

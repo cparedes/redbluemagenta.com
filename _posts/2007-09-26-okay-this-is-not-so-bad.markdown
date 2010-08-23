@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "322"
 layout: post
 title: Okay, this is not so bad
-wordpress_url: http://blog.redbluemagenta.com/?p=94
+categories:
+- School
 ---
 Thankfully, my MATH 424 professor changed the location of the class from Condon to Johnson, which is infinitely closer to everything else.
 

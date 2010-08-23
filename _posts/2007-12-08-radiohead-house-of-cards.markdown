@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "365"
 layout: post
 title: "Radiohead: House of Cards"
-wordpress_url: http://blog.redbluemagenta.com/?p=148
+categories:
+- Music
 ---
 I don't want to be your friend
 I just want to be your lover

@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "329"
 layout: post
 title: American politics
-wordpress_url: http://blog.redbluemagenta.com/?p=135
+categories:
+- Philosophy
+- Politics
+- Rant
 ---
 American politics nowadays is very shortsighted and is filled with blind idealism and whatever else; or perhaps I should say, our thoughts on current American politics today is very idealistic and is pretty much the same between any other person in the Democratic/Republican party.  This somewhat goes along with the overall trend of society matched with uniformity that is cemented within the consumerist ideals; in other words, our thoughts have increasingly become uniform as consumerism took hold on our society, along with the introduction of TV as a major medium of entertainment.  This has huge implications on the way we think about politics where it is now more about showmanship and circus acts on TV and on stage of the general societal theater of America.
 

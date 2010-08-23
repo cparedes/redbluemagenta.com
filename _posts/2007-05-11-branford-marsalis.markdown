@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "271"
 layout: post
 title: Branford Marsalis
-wordpress_url: http://blog.redbluemagenta.com/?p=74
+categories:
+- Music
 ---
 I saw him earlier this evening over at Jazz Alley here in Seattle.  He's doing stuff until Sunday, so if you guys just missed tonight's show, you guys definitely have more chances to check him out.
 

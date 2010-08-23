@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "361"
 layout: post
 title: Journeys
-wordpress_url: http://blog.redbluemagenta.com/?p=156
+categories:
+- Conversation
+- Personal
 ---
 I've already somewhat figured out a haphazard way of healing that might help me out considerably, which is to engage myself in conversation and throw myself into the world.
 

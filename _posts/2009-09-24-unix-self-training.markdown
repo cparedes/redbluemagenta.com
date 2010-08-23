@@ -1,8 +1,13 @@
 --- 
-wordpress_id: "450"
 layout: post
 title: UNIX Self-Training!
-wordpress_url: http://blog.redbluemagenta.com/?p=265
+categories:
+- Bsd
+- Computers
+- Linux
+- Self-training
+- Solaris
+- Unix
 ---
 Here is my tentative plan: setup a VMWare private network with four or five virtual machines running at once.  I'll setup one OpenBSD firewall, one *BSD router/DNS server (not sure which BSD quite yet, probably OpenBSD), one FreeBSD mail server, one Solaris web server, and one Slackware NFS file server just for kicks.  I've also been writing up little bash, sed, and perl scripts at my current job in order to help sift through text files and spit back anything useful for either me or anyone else outside of the IT department.
 

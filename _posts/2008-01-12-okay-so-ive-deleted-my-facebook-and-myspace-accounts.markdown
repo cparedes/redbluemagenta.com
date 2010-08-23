@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "418"
 layout: post
 title: Okay, so I've deleted my Facebook and Myspace accounts.
-wordpress_url: http://blog.redbluemagenta.com/?p=164
+categories:
+- Computers
+- Human Interaction
 ---
 I was spending too much time on Facebook and Myspace - although from what I hear, the amount of time I spent on Facebook and Myspace is not even all that much compared to many others - and I need that time for other things, like studying and actually doing shit outside of the internet.
 

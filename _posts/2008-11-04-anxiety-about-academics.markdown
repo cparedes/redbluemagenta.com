@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "437"
 layout: post
 title: Anxiety about Academics
-wordpress_url: http://blog.redbluemagenta.com/?p=183
+categories:
+- Education
+- Rant
+- School
 ---
 I'm fucking up again this quarter.
 

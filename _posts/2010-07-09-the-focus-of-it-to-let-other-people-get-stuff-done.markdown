@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "590"
 layout: post
 title: "The focus of IT: to let other people get stuff done"
-wordpress_url: http://www.redbluemagenta.com/?p=590
+categories:
+- computer nazi
+- Computers
+- Rant
+- Systems Administration
 ---
 This might sound bizarre to a lot of people who are in IT; after all, our primary job title dictates what our primary goals are.  A DBA makes sure that the databases are up and running, a systems administrator makes sure that the systems are up and running, and a security engineer makes sure that the systems are running as securely as possible, and that the processes in a company involving computing services keep IT security in mind.
 

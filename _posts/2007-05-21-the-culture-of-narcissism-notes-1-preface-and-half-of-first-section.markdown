@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "275"
 layout: post
 title: "The Culture of Narcissism: Notes #1, Preface and half of first section"
-wordpress_url: http://blog.redbluemagenta.com/?p=79
+categories:
+- Human Interaction
 ---
 I'm going to start a series of posts that will offer a bit of my thoughts on a book I'm going to trudge through for the next two months.  The book is called <u>The Culture of Narcissism: American Life in an Age of Diminishing Expectations</u> by Christopher Lasch.  I've read through the preface and started the first chapter, and already I'm finding myself agreeing with many of the propositions that the author brings forth in his introduction of the book.
 

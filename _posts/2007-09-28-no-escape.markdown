@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "324"
 layout: post
 title: No escape
-wordpress_url: http://blog.redbluemagenta.com/?p=96
+categories:
+- Human Interaction
+- Philosophy
 ---
 We act within our society and never outside of it.  There is no escape from the collective thought patterns and perceptions borne within the people in a given society.
 

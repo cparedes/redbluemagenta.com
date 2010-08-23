@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "277"
 layout: post
 title: "The Culture of Narcissism: Notes #3, Chapters 2, 3, part of 4"
-wordpress_url: http://blog.redbluemagenta.com/?p=81
+categories:
+- Human Interaction
 ---
 It seems that the word "narcissism" is, nowadays, often attributed to every sort of selfish act, which eliminates the historic specificity that is needed to analyze the trend of human interaction.
 

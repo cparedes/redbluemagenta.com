@@ -1,8 +1,13 @@
 --- 
-wordpress_id: "445"
 layout: post
 title: Beyond College?
-wordpress_url: http://blog.redbluemagenta.com/?p=225
+categories:
+- Education
+- Engineering
+- graduate school
+- It
+- School
+- Statistics
 ---
 So, I've been thinking about what I should possibly do after I graduate.  I'm hoping that I can get a full time entry level / junior level position in IT, but the job market is looking real terrible right now.  I was also thinking about graduate school, maybe in something like statistics.  But how everything will line up, I don't know. . .
 

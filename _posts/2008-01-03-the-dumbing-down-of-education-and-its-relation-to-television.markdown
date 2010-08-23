@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "416"
 layout: post
 title: The dumbing down of education and its relation to television
-wordpress_url: http://blog.redbluemagenta.com/?p=162
+categories:
+- Education
+- Mcluhan
+- Postman
+- Television
+- Tv
 ---
 <p>I'm finally done with <u>Amusing Ourselves to Death</u> by Neil Postman. Some of the points he made about how education has changed through the new epistemologies of television were quite convincing.</p>
 <p>The reframing of traditional, contextualized and continuous education into the fragmented, non-contextual and <span style="font-style: italic;">entertaining</span> world of television starts reframing education in children's eyes as <span style="font-style: italic;">having</span> to be entertaining. There are claims that this is a good pedagogical methodology for education and that it actually increases comprehension in many different fields of study. However, curricula based around the format of <span style="font-style: italic;">televisable entertainment</span> has to be <span style="font-style: italic;">televisable</span>; that is, the topics chosen must entertain the crowd, which most likely will be tangential to any sort of serious academic pursuit, as anything televisable must be sufficiently dumbed down and fragmented enough to appeal to the entertainment-hungry students. It is enough that this way of thinking has already manifested itself in various high schools around the country (case in point: the math curriculum in place in many high schools around the country), yet this pedagogy is seeping into college curricula as well in the form of entertaining gestures in lectures, etc.</p>

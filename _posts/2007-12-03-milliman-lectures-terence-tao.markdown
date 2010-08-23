@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "362"
 layout: post
 title: "Milliman Lectures: Terence Tao"
-wordpress_url: http://blog.redbluemagenta.com/?p=155
+categories:
+- Math
 ---
 (Thanks goes to Ben for this bit of information)
 

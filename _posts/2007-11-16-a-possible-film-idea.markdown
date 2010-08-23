@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "351"
 layout: post
 title: A possible film idea?
-wordpress_url: http://blog.redbluemagenta.com/?p=125
+categories:
+- Café Allegro
+- Conversation
+- Movies
 ---
 Me and a friend, both of us relative newcomers to Cafe Allegro, were thinking of making a few short clips of whatever conversations that we, along with others, have at Allegro.  Pretentious?  Yeah, maybe.  But we figure that it might be a great start in terms of documenting the sort of dynamic that we see at Allegro that is probably never seen at any other coffee shop, or perhaps anywhere else in Seattle.  And hell, we're also new to filmmaking in general, so this would be a great way to get ourselves acquainted with the whole thing.
 

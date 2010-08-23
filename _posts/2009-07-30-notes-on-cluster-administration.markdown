@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "254"
 layout: post
 title: Notes on Cluster Administration
-wordpress_url: http://blog.redbluemagenta.com/?p=254
+categories:
+- Computers
 ---
 After building a Beowulf cluster from scratch at my work, I've learned a lot of things about how to setup a Beowulf cluster successfully using OSCAR and a lot about how to avoid problems in the future.  I've ran into a ton of issues with pushing software across an internal network to a bunch of nodes, mainly because the slave nodes in a Beowulf cluster typically have no access to the internet.  Thus, it's a little tricky when it comes to package management; you can either setup iptables rules on your head node in order to have it act as a NAT, or you can download whatever packages you will need (including all of the dependencies) and store them in a single directory.  I chose the latter because I don't want any of my slave nodes in my cluster to have access to the internets.  However, what's the easiest way to deploy a bunch of packages for a bunch of compute nodes in a cluster?
 

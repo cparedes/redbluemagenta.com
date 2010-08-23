@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "258"
 layout: post
 title: Vendor lock-in (and various other tidbits about the site!)
-wordpress_url: http://blog.redbluemagenta.com/?p=258
+categories:
+- Computers
+- Rant
 ---
 <p>First of all, I've transitioned my website over to <a href="http://www.linode.com/?r=8bc45a7ce694f24356ff5e8e62177650598f9ab1">Linode.com</a>, which is working out extremely well for me.  Second, I've opened up my <a href="http://www.redbluemagenta.com">front page</a> to the public finally, which showcases my portfolio and my resume.</p>
 

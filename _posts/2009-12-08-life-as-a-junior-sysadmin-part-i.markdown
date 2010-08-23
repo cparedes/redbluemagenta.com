@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "219"
 layout: post
 title: Life as a "junior sysadmin", Part I
-wordpress_url: http://www.redbluemagenta.com/?p=71
+categories:
+- Computers
+- Networks
+- Systems Administration
 ---
 (<a href="http://www.redbluemagenta.com/index.php/2010/05/12/life-as-a-junior-sysadmin-part-ii/">Here's the link to Part II.</a>)
 

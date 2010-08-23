@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "439"
 layout: post
 title: A response to a response to my comment on another blog
-wordpress_url: http://blog.redbluemagenta.com/?p=191
+categories:
+- analytic feminism
+- Feminism
+- Philosophy
+- Rant
+- Response
 ---
 About three months ago, I posted <a href="http://robotdoves.blogspot.com/2008/08/welcome-back-my-good-friend.html">a comment</a> on <a href="http://robotdoves.blogspot.com">a feminist blog</a>, which, I'll concede, is a bit too blunt and perhaps uninformed comment about feminism.  Then just recently, they posted <a href="http://robotdoves.blogspot.com/2008/12/anit-intellectual-feminist-movement.html">a response to my comment</a> on their blog.  First, here is what I said:
 <blockquote>i think, in my opinion, why people cannot take most feminist views with any seriousness is because (to me) it's EXTREMELY anti-intellectual. to put it even more bluntly, a lot of what's being said on behalf of feminism sounds like a lot of whining, not well thought out argumentation.  i personally can't take any position seriously when logic is replaced with pure passion and citations from "authority."</blockquote>

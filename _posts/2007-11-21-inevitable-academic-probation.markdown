@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "356"
 layout: post
 title: Inevitable academic probation
-wordpress_url: http://blog.redbluemagenta.com/?p=130
+categories:
+- Personal
+- School
 ---
 I'm fucked.
 

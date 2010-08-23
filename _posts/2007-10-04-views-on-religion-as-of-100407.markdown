@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "331"
 layout: post
 title: Views on religion as of 10/04/07
-wordpress_url: http://blog.redbluemagenta.com/?p=137
+categories:
+- Philosophy
+- Religion
 ---
 I should read some of Kierkegaard's works sometime.
 

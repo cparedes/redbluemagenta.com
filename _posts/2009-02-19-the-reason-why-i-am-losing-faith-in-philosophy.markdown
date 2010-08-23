@@ -1,8 +1,14 @@
 --- 
-wordpress_id: "443"
 layout: post
 title: The reason why I am losing faith in philosophy
-wordpress_url: http://blog.redbluemagenta.com/?p=213
+categories:
+- Determinism
+- Indeterminism
+- Math
+- Philosophy
+- Physics
+- Rant
+- Unwarranted
 ---
 To put it bluntly, there is way too much unwarranted use of science, mathematics, etc. in philosophy in order to establish or attack philosophical positions.  "Determinism vs. indeterminism" is one such problem child debate: this debate is almost analogous to a religious argument, with a good dose of unwarranted use of math.  Another example is my philosophy professor saying that there are less even numbers than there are natural numbers: he stated that it is intuitively clear that there are less even numbers than natural numbers, therefore, it ought to be clear that if we stretch it to the entire infinite sets of natural numbers and even numbers, the same relation of cardinality holds.  AND NO, IT DOESN'T!  Argh!  I'm not even going to try to entertain the idea on how to justify that the two sets are exactly the same size, because it is almost all too clear to most, if not, all practicing mathematicians, and at the very least, it's clear to almost all math students.
 

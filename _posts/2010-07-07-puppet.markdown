@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "519"
 layout: post
 title: Puppet
-wordpress_url: http://www.redbluemagenta.com/?p=519
+categories:
+- Computers
+- configuration management
+- Puppet
+- Ruby
+- Systems Administration
 ---
 I've started to use <a href="http://puppetlabs.com">Puppet</a> at my current job, which is a configuration management system for UNIX operating systems, including Linux, *BSD, Solaris, and Mac OS X (Windows support is coming soon according to Reductive Labs: though GPO's are nice, the programmatic interface of Puppet easily trumps GPO's, since you can't really extend GPO's beyond whatever interfaces Microsoft provides out of the box.)
 

@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "217"
 layout: post
 title: "Dilemma: deciding between three major UNIXES as a desktop"
-wordpress_url: http://www.redbluemagenta.com/?p=66
+categories:
+- Computers
+- Freebsd
+- Linux
+- Opensolaris
 ---
 <p>There are a few considerations that I'll lay on the table first, which influence my decision (and motivate the reasons why I'm having a dilemma as well):</p>
 <ol>

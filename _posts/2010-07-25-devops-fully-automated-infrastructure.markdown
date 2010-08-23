@@ -2,7 +2,7 @@
 layout: post
 title: "DevOps: Fully Automated Infrastructure"
 categories:
-- DevOps
+- Devops
 - Systems Administration
 ---
 <em>(Inspired from the <a href="http://dev2ops.org/blog/2010/3/22/criteria-for-fully-automated-provisioning.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Dev2ops+(dev2opsATOM)">dev2ops post</a> on the same subject.)</em>

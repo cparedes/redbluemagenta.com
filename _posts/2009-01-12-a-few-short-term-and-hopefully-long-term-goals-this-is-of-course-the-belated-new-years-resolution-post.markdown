@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "441"
 layout: post
 title: "A few short-term (and hopefully long-term) goals: this is, of course, the belated New Years Resolution Post"
-wordpress_url: http://blog.redbluemagenta.com/?p=202
+categories:
+- Goals
+- Long-term
+- Personal
+- Self-improvement
+- Short-term
 ---
 So, after reading a friend's blog, I got to thinking about what sort of stuff I should probably set for myself in the short term, which hopefully will turn into long term habits.
 

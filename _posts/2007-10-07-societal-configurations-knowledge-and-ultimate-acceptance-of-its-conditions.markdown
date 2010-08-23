@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "334"
 layout: post
 title: "Societal configurations: knowledge and ultimate acceptance of its conditions"
-wordpress_url: http://blog.redbluemagenta.com/?p=140
+categories:
+- Café Allegro
+- Conversation
+- Human Interaction
+- Philosophy
 ---
 I was talking to an Ethiopian friend of mine today about how people live their lives in certain societal ecologies; for instance, in his home country, it is typical and natural for an 18 year old son in an agricultural area to go out and build his hut, raise animals, plant seeds, get a wife, etc.  It is a very simple life that is characterized by the amounts of space he has between him and the next house, the sorts of worries and tribulations he must tend to, etc.  In an agricultural area, there are not many worries except to tend to these livestock and food items in order to sustain his family.
 

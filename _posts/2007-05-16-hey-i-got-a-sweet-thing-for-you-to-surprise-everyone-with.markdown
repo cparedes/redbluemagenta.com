@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "274"
 layout: post
 title: Hey, I got a sweet thing for you to surprise everyone with
-wordpress_url: http://blog.redbluemagenta.com/?p=78
+categories:
+- Math
 ---
 1 - 1 + 1 - 1 + 1 .... = 1/2
 

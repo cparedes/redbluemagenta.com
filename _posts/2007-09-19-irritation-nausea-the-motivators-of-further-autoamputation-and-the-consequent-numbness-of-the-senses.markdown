@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "318"
 layout: post
 title: "Irritation, nausea: the motivators of further autoamputation and the consequent numbness of the senses"
-wordpress_url: http://blog.redbluemagenta.com/?p=84
+categories:
+- Human Interaction
+- Mcluhan
 ---
 (this is mostly a paraphrasing of McLuhan's analysis of the effects of media with a few comments on how it relates to our society today)
 

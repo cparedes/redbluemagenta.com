@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "284"
 layout: post
 title: "Okay, so I checked out a video camera, but\xE2\x80\xA6 what to film?!"
-wordpress_url: http://blog.redbluemagenta.com/?p=59
+categories:
+- Random
 ---
 I have no idea what the fuck I should film.
 

@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "276"
 layout: post
 title: "The Culture of Narcissism: Notes #2, quick quotation from book"
-wordpress_url: http://blog.redbluemagenta.com/?p=80
+categories:
+- Human Interaction
 ---
 I just wanted to quote a passage from the book that seems to resonate quite strongly with me:
 

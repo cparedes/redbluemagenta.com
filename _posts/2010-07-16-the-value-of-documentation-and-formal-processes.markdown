@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "514"
 layout: post
 title: The value of documentation and formal processes
-wordpress_url: http://www.redbluemagenta.com/?p=514
+categories:
+- Automation
+- Documentation
+- formal processes
+- Systems Administration
 ---
 The value of documentation and formal processes rears its ugly head right when we forget what we did six months ago, and when we have to pass knowledge over to any other person in the company.
 

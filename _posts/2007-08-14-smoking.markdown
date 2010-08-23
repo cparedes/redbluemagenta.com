@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "295"
 layout: post
 title: Smoking
-wordpress_url: http://blog.redbluemagenta.com/?p=103
+categories:
+- Personal
 ---
 Alright guys, I'm going to stop starting tomorrow (Wednesday).  Hopefully.  I already exhausted my set of cigarettes and plan on not hanging outside the Allegro as much, since all people do out there is smoke anyway.  But yeah, I figure this should be easy, I've only been doing it for around three weeks, so I doubt I'll get the nausea that people get after staying away for like six hours.
 

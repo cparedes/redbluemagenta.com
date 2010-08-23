@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "215"
 layout: post
 title: Network Deployment and Planning
-wordpress_url: http://www.redbluemagenta.com/?p=53
+categories:
+- Computers
+- Consulting
+- Networks
+- Wifi
 ---
 I'm doing a bit of consulting on the side for a small business in Seattle, and I'm tasked with coming up with a proposal for improving the reliability of their wifi network (which could mean anything between the internet and the user's laptop, including the network gateway, wifi AP capacity, etc.), and ultimately implementing all of the hardware and software.  As I have probably said before, I'm mostly on the technical side of IT rather than the business side, so this will expose me more to the business side of things.
 

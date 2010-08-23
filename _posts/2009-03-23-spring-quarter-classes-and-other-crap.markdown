@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "444"
 layout: post
 title: Spring quarter classes, and other crap
-wordpress_url: http://blog.redbluemagenta.com/?p=219
+categories:
+- Classes
+- Reflection
+- School
+- seattle university
+- Uw
 ---
 Twenty credits.  Here they are:
 

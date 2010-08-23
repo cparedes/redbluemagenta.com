@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "611"
 layout: post
 title: How to keep people in your organization, especially smart people
-wordpress_url: http://www.redbluemagenta.com/?p=611
+categories:
+- Agile
+- Business
+- Rant
+- Work
 ---
 When an organization says outright that they only hire smart people, I'd love to believe that they're telling the truth (they might actually believe this to be true.)  However, I've found out that an organization must put its money where its mouth is when it comes to actually <em>keeping</em> them on staff.
 

@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "252"
 layout: post
 title: Preliminary Reading in Computer Vision
-wordpress_url: http://blog.redbluemagenta.com/?p=252
+categories:
+- cat recognition
+- computer vision
+- Computers
+- Math
 ---
 After a few conversations with Phillip about the whole cat-recognition problem thing, I've decided to do a bit of reading in a book I bought a few weeks ago, as well as some light research on Wikipedia on computer vision.  Well, it didn't take long for me to hit upon a few helpful articles:
 

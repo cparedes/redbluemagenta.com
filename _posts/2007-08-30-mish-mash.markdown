@@ -1,8 +1,13 @@
 --- 
-wordpress_id: "305"
 layout: post
 title: Mish mash
-wordpress_url: http://blog.redbluemagenta.com/?p=116
+categories:
+- Beer
+- Human Interaction
+- Mcluhan
+- Random
+- Religion
+- Tv
 ---
 I've loads of crap that I've gotta sort through in my head, but well, I'll try to talk about them in some capacity.
 

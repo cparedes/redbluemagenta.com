@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "278"
 layout: post
 title: Yet again, financial aid woes
-wordpress_url: http://blog.redbluemagenta.com/?p=82
+categories:
+- School
 ---
 I usually get just enough aid for each quarter to cover tuition and like $100 or $200 worth of books each quarter.
 

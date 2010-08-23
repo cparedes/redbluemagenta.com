@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "360"
 layout: post
 title: "This is awesome.  I guess I should use \xE2\x80\x9CAlgebra Helper\xE2\x80\x9D for Rudin\xE2\x80\x99s book on ANALYSIS"
-wordpress_url: http://blog.redbluemagenta.com/?p=157
+categories:
+- Math
+- Website
 ---
 So, I was looking on the web for solutions on Rudin's "Principles of Mathematical Analysis" (yeah, I know Ben, this is blasphemy. :))
 

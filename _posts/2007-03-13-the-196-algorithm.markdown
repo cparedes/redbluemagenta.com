@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "264"
 layout: post
 title: The 196-algorithm
-wordpress_url: http://blog.redbluemagenta.com/?p=57
+categories:
+- Math
 ---
 Take any 2 digit (or higher) number and reverse the ordering of its digits.
 

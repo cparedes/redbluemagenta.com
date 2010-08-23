@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "340"
 layout: post
 title: "Charity: yet another middle classism"
-wordpress_url: http://blog.redbluemagenta.com/?p=146
+categories:
+- Human Interaction
+- Rant
 ---
 The urban middle class is slowly becoming more and more dehumanized as time goes on.  Charity, for instance, is a great example of the dehumanization of the middle class: we are absolutely fine with throwing change at a random homeless guy and writing huge checks to whatever organization for charity, yet on the same token, we will shun away any other homeless person that we don't have the mood to give money to.  All of you have probably heard it before: "they can just find a shelter and a food bank, they don't need anything from me," "this guy is way too dirty for me to do anything for him," etc.  If we view the homeless as sources of altruism, we institutionalize them into a pigeon hole and completely neglect their unique experiences as humans.
 

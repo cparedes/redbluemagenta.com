@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "270"
 layout: post
 title: Sweetness, Summer and (Potential) Autumn classes
-wordpress_url: http://blog.redbluemagenta.com/?p=75
+categories:
+- School
 ---
 Summer (already registered):
 

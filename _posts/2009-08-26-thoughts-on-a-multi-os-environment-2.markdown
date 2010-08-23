@@ -1,8 +1,13 @@
 --- 
-wordpress_id: "257"
 layout: post
 title: Thoughts on a multi-OS environment
-wordpress_url: http://blog.redbluemagenta.com/?p=257
+categories:
+- active directory
+- Computers
+- Freebsd
+- Linux
+- Networking
+- Windows
 ---
 I have always wanted to experiment a little more with multiple OS integration in a computer network.  It seems that Active Directory is what's driving most networks these days, and while there might be opposition against a multi-OS environment on any side of the debate, it's a hell of a lot better to factor other operating systems into the equation.  But why would one want to do that, if say most of the users were used to either Linux/BSD or Windows?
 

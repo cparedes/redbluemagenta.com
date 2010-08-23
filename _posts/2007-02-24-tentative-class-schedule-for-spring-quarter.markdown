@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "262"
 layout: post
 title: Tentative Class Schedule for Spring Quarter
-wordpress_url: http://blog.redbluemagenta.com/?p=47
+categories:
+- School
 ---
 Hopefully this shit doesn't break:
 <table border="1" cellpadding="3">

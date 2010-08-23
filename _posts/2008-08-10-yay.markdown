@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "432"
 layout: post
 title: Yay
-wordpress_url: http://blog.redbluemagenta.com/?p=178
+categories:
+- Computers
+- Job
+- Science
 ---
 So I guess I finally can rest and stop here with my job hunting... I've recently snagged a temporary job working as an audio/visual maintenance person for a vascular disease conference (which is transitioning over to podcast compiling person very soon.)  I've got an interview coming up for Fred Meyers as well with a medical genetics lab in the UW Medical Center.  I'm hoping that the lab takes me on, since I figure it'd be better to crunch numbers out for a lab than to stand around for five hours.
 

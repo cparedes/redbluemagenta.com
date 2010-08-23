@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "268"
 layout: post
 title: Sweet, new computer parts coming in soon
-wordpress_url: http://blog.redbluemagenta.com/?p=54
+categories:
+- Computers
 ---
 I've a bunch of computer parts coming in the mail later this week... I'm excited as shit, I haven't had a full overhaul in quite a long time.  Instead of the water cooling setup that I have setup for my desktop computer right now, I'm going to go all air and hope that it cools my computer down adequately.  In any case, here's what I'm getting:
 

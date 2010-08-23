@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "269"
 layout: post
 title: A sort of confirmation of my thoughts on human needs as it relates to modern society
-wordpress_url: http://blog.redbluemagenta.com/?p=53
+categories:
+- Human Interaction
 ---
 (WORD OF WARNING: Like a lot of my rants, this particular piece doesn't have any citation to any sources at all, mostly because I'm too lazy to look up the stuff that I've already read.  If you want to confirm/disprove any of the facts, go right ahead, I won't stop you. :))
 

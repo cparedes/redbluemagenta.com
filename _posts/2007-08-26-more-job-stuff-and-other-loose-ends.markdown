@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "304"
 layout: post
 title: More job stuff, and other loose ends
-wordpress_url: http://blog.redbluemagenta.com/?p=117
+categories:
+- Job
+- Random
 ---
 I've typed up my resumé for the coffee shop, which I'll hand in tomorrow morning.  I figure I can schedule myself for now as full time at the help desk job, then maybe change my schedule later if at all possible.  If not, I'll just work full time during the weekdays and maybe work five hours during the weekend over at the Allegro.
 

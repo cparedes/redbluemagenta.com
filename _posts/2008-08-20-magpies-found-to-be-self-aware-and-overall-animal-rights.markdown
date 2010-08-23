@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "433"
 layout: post
 title: Magpies found to be self-aware, and overall animal rights
-wordpress_url: http://blog.redbluemagenta.com/?p=179
+categories:
+- animal rights
+- Magpies
+- Science
 ---
 I'll get to the whole Magpie thing in a minute, but first, I wanted to enumerate my thoughts on animal rights that have been in the back burner for quite a while.
 

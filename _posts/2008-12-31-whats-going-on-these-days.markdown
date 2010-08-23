@@ -1,8 +1,18 @@
 --- 
-wordpress_id: "440"
 layout: post
 title: What's going on these days
-wordpress_url: http://blog.redbluemagenta.com/?p=200
+categories:
+- arch linux
+- Centos
+- Computers
+- Fedora
+- Gentoo
+- Linux
+- Opensuse
+- Ubuntu
+- Uw
+- Vmware
+- Work
 ---
 So, I've recently started my new job over at a research lab down in UW SLU, and it's going great so far.  For now, I've been doing inventory of all of the computers that we own in the lab (it's about 15 or so, not too bad), doing disk backups, a little manual labor, some basic technical support, and a little bit of research into a few pieces of software.  But I guess soon I'll be getting a Linux desktop for me to fool around with, as well as making sure that a Linux server that handles all of the experimental data is running smoothly.
 

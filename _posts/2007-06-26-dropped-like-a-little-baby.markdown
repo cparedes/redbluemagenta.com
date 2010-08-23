@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "285"
 layout: post
 title: Dropped, like a little baby.
-wordpress_url: http://blog.redbluemagenta.com/?p=61
+categories:
+- School
 ---
 I finally went into MATH 301 (Elem. Number Theory) for the first time today.
 

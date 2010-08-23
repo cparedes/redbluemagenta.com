@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "309"
 layout: post
 title: "Caf\xC3\xA9 Allegro, and a chat with the owner"
-wordpress_url: http://blog.redbluemagenta.com/?p=112
+categories:
+- Café Allegro
+- Human Interaction
+- Personal
+- Philosophy
 ---
 As you all probably know, I've been meaning to work at Café Allegro for a while.  I've turned in my resumé earlier this week as a sort of reaction to the current job I'm doing at Computing & Communications at the UW; it's a decent job, I just simply cannot stand the environment.  In any case, I've heard from the grapevine that Nathaniel (the owner) either does not look at the resumés or he simply skims through them but prefers to talk to potential applicants face to face.
 

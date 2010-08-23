@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "428"
 layout: post
 title: The Age of Unreason
-wordpress_url: http://blog.redbluemagenta.com/?p=174
+categories:
+- Philosophy
+- Rant
 ---
 This blog post was spurned by <a href="http://www.youtube.com/v/-fWJH5KG9jc">this interview of biographer Andrew Morton</a>.
 

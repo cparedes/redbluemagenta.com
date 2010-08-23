@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "335"
 layout: post
 title: The abundance of convenience
-wordpress_url: http://blog.redbluemagenta.com/?p=141
+categories:
+- Human Interaction
+- Philosophy
 ---
 I was talking to my brother's coworker last night outside of a bar in Belltown about various things, mostly touching upon how we take a lot of things for granted in this country.  We have an abundance of convenience where we have multiple choices of everything (and in great quantities) and are therefore spoiled by the sheer availability of goods.  The mere thought of having one of something is very disgusting to us, as that implies that we are not cashing in in our abundance and in our "right to choose" whatever we want.  On top of that, we want things instantly without much hassle and wait.  This convenience is, again, in great abundance; businesses compete along the lines of convenience and abundance of features and things when marketing to the consumer, and since we gear these products toward consumers, we also try our hardest to CONVINCE them, somehow, that this is a great thing to have and that this partaking in our abundant conveniences will somehow improve their life in some way.
 

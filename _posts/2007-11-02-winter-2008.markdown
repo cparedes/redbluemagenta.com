@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "341"
 layout: post
 title: Winter 2008!
-wordpress_url: http://blog.redbluemagenta.com/?p=147
+categories:
+- School
 ---
 Well well, here's my tentative schedule for Winter 2008:
 

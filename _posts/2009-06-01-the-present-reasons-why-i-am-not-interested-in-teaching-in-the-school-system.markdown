@@ -1,8 +1,12 @@
 --- 
-wordpress_id: "446"
 layout: post
 title: The present reasons why I am not interested in teaching in the school system
-wordpress_url: http://blog.redbluemagenta.com/?p=229
+categories:
+- Education
+- Mediocrity
+- public school
+- Rant
+- Teaching
 ---
 I have a bit of a conundrum; maybe some of you guys who are involved in teaching could convince me otherwise.
 

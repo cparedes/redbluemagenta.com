@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "287"
 layout: post
 title: "A maxim through the form of a \xE2\x80\x9Cprayer,\xE2\x80\x9D and various other thoughts related to it"
-wordpress_url: http://blog.redbluemagenta.com/?p=63
+categories:
+- Human Interaction
 ---
 "God grant us the serenity to accept the things we cannot change, courage to change the things we can, and wisdom to know the difference."
 

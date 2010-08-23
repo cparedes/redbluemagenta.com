@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "303"
 layout: post
 title: Lost sucks.
-wordpress_url: http://blog.redbluemagenta.com/?p=111
+categories:
+- Rant
+- Tv
 ---
 Okay, so I decided to watch an episode or two while my brother was watching it on the TV.  My brother says this is the best show EVER, while I look on and witness cliché plot twists, cliffhangers, and crappy dialogue.
 

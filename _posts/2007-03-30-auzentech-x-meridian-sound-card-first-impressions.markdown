@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "266"
 layout: post
 title: Auzentech X-Meridian sound card first impressions
-wordpress_url: http://blog.redbluemagenta.com/?p=56
+categories:
+- Computers
 ---
 If you're into installing stuff into your computer and if you're into music, then get this sound card ASAPASPAPAPSAP
 

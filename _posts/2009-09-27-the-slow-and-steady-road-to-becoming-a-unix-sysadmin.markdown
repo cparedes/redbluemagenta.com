@@ -1,8 +1,16 @@
 --- 
-wordpress_id: "214"
 layout: post
 title: The slow and steady road to becoming a UNIX sysadmin
-wordpress_url: http://www.redbluemagenta.com/?p=51
+categories:
+- Career
+- Computers
+- Debian
+- Freebsd
+- Linux
+- Slackware
+- Solaris
+- Sysadmin
+- Unix
 ---
 <p>I'm attempting to follow a career path to becoming a UNIX sysadmin.  On paper, it sounds like the most rewarding profession out of everything I've looked at, and I already love administering and deploying Linux/BSD systems, though I've only had to deal with maybe ten privately networked nodes in a Beowulf cluster at most.  I've started to install four *NIX operating systems in VMWare Workstation, such as OpenBSD, FreeBSD, Slackware, and Solaris (and maybe I'll add another Slackware server via PXE boot), all of them taking on different roles in a virtualized network.  I've been adding in more and more Debian boxes at my current job to do different fringe roles; one of them acts as an imaging server, another one acts as a network monitoring box, and I'm hoping to add another box as a test box for different web applications.</p>
 

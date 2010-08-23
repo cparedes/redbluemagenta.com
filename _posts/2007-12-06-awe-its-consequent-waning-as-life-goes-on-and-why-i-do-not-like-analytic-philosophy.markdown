@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "364"
 layout: post
 title: Awe, its consequent waning as life goes on and why I do not like analytic philosophy
-wordpress_url: http://blog.redbluemagenta.com/?p=153
+categories:
+- Philosophy
+- Rant
 ---
 We are at awe when we are born.  Imagine the light flooding into our eyes as we open them for the first time; our wonder at the world as it exists rather than what is constructed through presuppositions; and the lack of memory when moments are fleeting, the future impermanent.
 

@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "114"
 layout: post
 title: "Solutions to Project Euler Problems #1 and #2"
-wordpress_url: http://www.redbluemagenta.com/?p=114
+categories:
+- Math
+- Programming
+- project euler
 ---
 Site: <a href="http://projecteuler.net/">http://projecteuler.net/</a>
 

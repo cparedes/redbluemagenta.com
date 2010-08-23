@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "272"
 layout: post
 title: How am I going to deal with all of these unfinished articles
-wordpress_url: http://blog.redbluemagenta.com/?p=76
+categories:
+- Random
 ---
 I have something like ten blog posts that are sitting in the drafts folder of my blog waiting to be finished.  About half of them already have an essay's worth typed up, others have one paragraph, and some simply only have the title typed in and nothing else.
 

@@ -1,8 +1,15 @@
 --- 
-wordpress_id: "449"
 layout: post
 title: Open Source as an IT strategy, and not as a product
-wordpress_url: http://blog.redbluemagenta.com/?p=261
+categories:
+- closed source
+- Computers
+- Linux
+- open source
+- Oss
+- Rant
+- Strategy
+- Vendor
 ---
 <p>I was reading a <a href="http://www.o3magazine.com/0/7.html">great article</a> on <a href="http://o3magazine.com">o3magazine.com</a> about leveraging open source software as an overall strategy rather than as a replacement for a vendor.  This makes a lot of sense: though there are definitely open source vendors (for example, Red Hat) that can take over for closed source vendors, the best way OSS can be deployed as a cost effective alternative to Microsoft lock-in is to simply replace vendors with trained staff, and keep it people-centric rather than vendor-centric.  As soon as there are enough staff members, the cost of running open source software remains relatively flat; there is no additional software cost when the infrastructure scales up, and if the staff are relatively well trained, there is a slower increase of staff members depending on how many servers each staff member can maintain.</p>
 <p>I always try to emphasize in all of my posts that I'm also trying to be realistic, especially with meeting users' needs first.  Sometimes this means biting the bullet and investing in vendors, especially if they offer a superior product that meets both the IT department's needs and the users' needs.  However, the quality of open source software, in what little experience I have with both closed and open source enterprise grade software, is gaining on closed source software quite a bit.  However, changing the entire business plan from dealing with vendors to embracing the essence of open source strategy seems to be a monumental task; not only is there the technical boundaries associated with migrating everything over to another product (which may not even integrate well with Windows clients), but also with simply holding a specific company accountable for any sort of bugs in the software, or even simply in IT department staffing and project implementation.  Instead of buying a package from a vendor that does X, Y, and Z, you have to rely on the in-house team in order to put together a solution from many different pieces that does exactly X, Y, and Z.  Yes, this does take away time from maintenance and whatnot, but there are pitfalls that would be avoided with this style compared to buying commercial COTS, providing there was a sufficiently decent staff in the IT department:</p>

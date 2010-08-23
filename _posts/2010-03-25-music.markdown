@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "73"
 layout: post
 title: Music.
-wordpress_url: http://www.redbluemagenta.com/?p=73
+categories:
+- Music
+- no age
+- the fiery furnaces
+- the go team
 ---
 Instead of flooding people with a bunch of links to various bands/songs I've recently started getting into, I'll just post them in a single blog post and people can choose to pick over them if they wish.
 

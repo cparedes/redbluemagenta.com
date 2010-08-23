@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "296"
 layout: post
 title: TV
-wordpress_url: http://blog.redbluemagenta.com/?p=104
+categories:
+- Human Interaction
+- Tv
 ---
 I avoid watching TV.  I haven't watched TV in any real capacity for a couple of years now and found how degenerative it can be.  I hate saying this, but well, it also sickens me to see my family being more up to date with what's going on on TV than with what's going on around us.  Often, I cannot talk to them during dinner because the TV in the living room is on, their eyes glued to whatever is on the TV for the entire meal.
 

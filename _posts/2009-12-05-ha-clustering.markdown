@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "218"
 layout: post
 title: HA Clustering
-wordpress_url: http://www.redbluemagenta.com/?p=72
+categories:
+- Computers
+- high availability clusters
+- Networks
+- Systems Administration
 ---
 First, I want to forewarn everyone that I do not have any experience in deploying HA clusters whatsoever, though I do have some experience in deploying HPC clusters; this is simply a thought experiment in discovering any sort of caveats and issues with HA clusters and what sort of things should be addressed in either policy or implementation.
 

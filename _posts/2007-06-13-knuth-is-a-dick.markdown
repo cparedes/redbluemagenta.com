@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "280"
 layout: post
 title: Knuth is a dick.
-wordpress_url: http://blog.redbluemagenta.com/?p=73
+categories:
+- Math
 ---
 Hahah, I was reading through the introduction of "The Art of Programming" by Donald Knuth, and he had an example set of problems that demonstrated his problem difficulty rating system.
 

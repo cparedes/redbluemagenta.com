@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "447"
 layout: post
 title: Breakout from scratch, part I
-wordpress_url: http://blog.redbluemagenta.com/?p=232
+categories:
+- Breakout
+- game development
+- Games
+- Programming
 ---
 [caption id="attachment_233" align="aligncenter" width="300" caption="Breakout, the game"]<img class="size-medium wp-image-233" title="Breakout Game" src="http://blog.redbluemagenta.com/wp-content/uploads/breakout-300x234.jpg" alt="Breakout, the game" width="300" height="234" />[/caption]
 

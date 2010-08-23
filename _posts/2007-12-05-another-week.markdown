@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "363"
 layout: post
 title: Another week
-wordpress_url: http://blog.redbluemagenta.com/?p=154
+categories:
+- Personal
 ---
 It's been one week since I've last had contact with my ex.
 

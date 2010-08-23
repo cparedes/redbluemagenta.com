@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "265"
 layout: post
 title: Tolstoy Essay
-wordpress_url: http://blog.redbluemagenta.com/?p=52
+categories:
+- Human Interaction
 ---
 Well, I finally finished that fucking essay that I had to write for my comp. lit. class.  I'm a bit proud of it actually; it's three quarters sincere and one quarters bullshit, though it's hastily put together and isn't the greatest of prose.  It does, however, seem to cover at least some of my thoughts on human interaction in general.  Here it is, don't worry if it makes no sense, there's a lot of assumptions I've made about the reader's knowledge on what went on in the lectures.
 

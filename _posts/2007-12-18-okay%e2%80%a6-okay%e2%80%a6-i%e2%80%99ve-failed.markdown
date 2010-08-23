@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "368"
 layout: post
 title: "Okay\xE2\x80\xA6 okay\xE2\x80\xA6 I\xE2\x80\x99ve failed."
-wordpress_url: http://blog.redbluemagenta.com/?p=151
+categories:
+- School
 ---
 I've failed 3 out of 4 classes this quarter, including both of my math classes.
 

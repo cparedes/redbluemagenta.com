@@ -1,8 +1,8 @@
 --- 
-wordpress_id: "430"
 layout: post
 title: Fall 2008!
-wordpress_url: http://blog.redbluemagenta.com/?p=176
+categories:
+- School
 ---
 <p>Okay, here we are:</p>
 

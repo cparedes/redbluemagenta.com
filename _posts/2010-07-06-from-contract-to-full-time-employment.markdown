@@ -1,8 +1,10 @@
 --- 
-wordpress_id: "530"
 layout: post
 title: From contracting to full time employment
-wordpress_url: http://www.redbluemagenta.com/?p=530
+categories:
+- 3tier
+- Jambool
+- Work
 ---
 So, before I interviewed with <a href="http://www.jambool.com">Jambool</a>, I interviewed with <a href="http://www.3tier.com">3TIER</a>, who provides information services for alternative energy companies.  I've heard from them just recently, and they've offered me a permanent full time position.
 

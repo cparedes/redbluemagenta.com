@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "315"
 layout: post
 title: Electronic technology
-wordpress_url: http://blog.redbluemagenta.com/?p=87
+categories:
+- Computers
+- Mcluhan
+- Philosophy
+- Rant
 ---
 I've always tooled around with this question in my head every now and then: will I be able to sever myself from technology - or at least interconnectivity through electronic means - within the near future?
 

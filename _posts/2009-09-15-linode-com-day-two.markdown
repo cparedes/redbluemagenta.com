@@ -1,8 +1,14 @@
 --- 
-wordpress_id: "212"
 layout: post
 title: "Linode.com: Day Two"
-wordpress_url: http://www.redbluemagenta.com/?p=29
+categories:
+- arch linux
+- Computers
+- Debian
+- Linode
+- Linux
+- Vps
+- Xen
 ---
 <p>I've been with <a href="http://www.linode.com/?r=8bc45a7ce694f24356ff5e8e62177650598f9ab1">Linode</a> for about two days now.  I can't say anything but good things about them when it comes to an unmanaged Linux box.  They provide a VPS (Virtual Private Server) which they call a "Linode," and each Linode is sitting on top of a Xen hypervisor.  I've subscribed to the Linode 720 plan, which grants 720 MB of guaranteed memory to the VPS, 32 GB of HD space, and about 400 GB of transfer per month.</p>
 

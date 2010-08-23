@@ -1,8 +1,13 @@
 --- 
-wordpress_id: "624"
 layout: post
 title: To do list
-wordpress_url: http://www.redbluemagenta.com/?p=624
+categories:
+- Books
+- Passenger
+- Personal
+- Programming
+- Rails
+- Ruby
 ---
 There's a few things I want to accomplish over the next few months:
 

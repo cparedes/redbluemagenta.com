@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "367"
 layout: post
 title: Some reasons why I cannot ever relate to the common college student
-wordpress_url: http://blog.redbluemagenta.com/?p=150
+categories:
+- Rant
+- School
 ---
 I've found that I can't relate to college students in general.  I was talking to a few friends of mine who are outside of the college system (college graduated or not), and they all the same damn thing that I agree with: us college students have NO perspective.  We're sheltered.  We live in a fantasy land.
 

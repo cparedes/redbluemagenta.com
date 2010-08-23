@@ -1,8 +1,11 @@
 --- 
-wordpress_id: "293"
 layout: post
 title: Books
-wordpress_url: http://blog.redbluemagenta.com/?p=69
+categories:
+- Books
+- Math
+- Personal
+- School
 ---
 I was talking to a physics professor in Cafe Allegro that I've heard about and seen a couple of times at Seattle University.  We were talking a lot about various subjects in mathematics as well as his research in physics.  While we were talking, he mentioned a few books that I'm thinking about checking out at the library that sound extremely interesting, and in one case, extremely important.
 

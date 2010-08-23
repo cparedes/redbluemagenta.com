@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "82"
 layout: post
 title: "Battlefield: Bad Company 2 Server"
-wordpress_url: http://www.redbluemagenta.com/?p=82
+categories:
+- battlefield bad company 2
+- Games
 ---
 So, I've recently leased a BF:BC2 32 player game server.  I've put all of the game server information at <a href="http://gs.redbluemagenta.com">gs.redbluemagenta.com</a>.
 

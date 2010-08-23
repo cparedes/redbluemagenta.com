@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'fileutils'
 require 'date'
 require 'yaml'
@@ -35,12 +37,22 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and wp:post_type = 'po
 
      categories = Array.new
 
-     categories.push(post.attributes["nicename"])
+     post.each('category') { |element| categories.push(element.text) }
+
+     categories.uniq!
+
+     categories.collect! { |x|
+	if (x.split.length > 1)
+		x.each(" ") { |y| y.capitalize }
+	else
+		x.capitalize
+	end
+     }
 
      File.open("_posts/#{name}", "w") do |f|
          f.puts data
 	 f.puts "categories:"
-	 f.puts categories
+	 categories.each { |element| f.puts "- #{element}" }
          f.puts "---"
          f.puts content
      end

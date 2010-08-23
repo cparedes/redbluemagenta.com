@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "301"
 layout: post
 title: "An open response to \xE2\x80\x9CThe community is a mean, not an end\xE2\x80\x9D"
-wordpress_url: http://blog.redbluemagenta.com/?p=109
+categories:
+- Human Interaction
+- Response
 ---
 For those interested: <a href="http://be1man.blogspot.com/2007/08/community-is-mean-not-end.html">Original Post</a>
 

@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "355"
 layout: post
 title: The genius of LaRouche
-wordpress_url: http://blog.redbluemagenta.com/?p=129
+categories:
+- Math
+- School
 ---
 I saw this picture in a Facebook group called "Larouche Kids Need Therapy" just now:
 

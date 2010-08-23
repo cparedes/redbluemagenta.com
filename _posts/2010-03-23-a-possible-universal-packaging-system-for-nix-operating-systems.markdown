@@ -1,8 +1,14 @@
 --- 
-wordpress_id: "66"
 layout: post
 title: A possible universal packaging system for *nix operating systems
-wordpress_url: http://www.redbluemagenta.com/?p=66
+categories:
+- Bsd
+- configuration management
+- Linux
+- package management
+- Pkgsrc
+- Ports
+- Systems Administration
 ---
 <em>(Note: I don't have any experience with deploying such a setup, but I do have some experience with working in an environment where several *nix operating systems were being used, with a lot of legacy OS's living alongside newer versions; this is a discussion on a possible packaging format that can make the job of deploying packages a little bit easier for each architecture and for each version of an operating system.)</em>
 

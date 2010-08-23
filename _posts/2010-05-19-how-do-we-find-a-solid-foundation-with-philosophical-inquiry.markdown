@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "187"
 layout: post
 title: How do we find a solid foundation with philosophical inquiry?
-wordpress_url: http://www.redbluemagenta.com/?p=187
+categories:
+- Foundations
+- Philosophy
 ---
 The one lesson that I've carried with me from my formal philosophy education was that I ought to question many belief systems, including my own.  And to be honest, I have done a lot of questioning of my own beliefs throughout college, up to today.
 

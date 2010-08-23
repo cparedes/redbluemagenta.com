@@ -1,8 +1,9 @@
 --- 
-wordpress_id: "310"
 layout: post
 title: "Well then gentlemen\xE2\x80\xA6 I guess I suck at math"
-wordpress_url: http://blog.redbluemagenta.com/?p=102
+categories:
+- Math
+- School
 ---
 I got a 0.0 GPA in my Topology class.  EXCELLENT!!!!
 
