@@ -31,11 +31,16 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and wp:post_type = 'po
         'layout' => 'post',
         'title' => post['title'].text,
         'excerpt' => post['excerpt:encoded'].text,
-	'categories' => post['category'].text
      }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
+
+     categories = Array.new
+
+     categories.push(post.attributes["nicename"])
 
      File.open("_posts/#{name}", "w") do |f|
          f.puts data
+	 f.puts "categories:"
+	 f.puts categories
          f.puts "---"
          f.puts content
      end
