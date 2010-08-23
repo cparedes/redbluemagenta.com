@@ -37,7 +37,7 @@ title: Postings filed under "#{category}"
     end
     html << '</ul>'
     
-    File.open("tags/#{category}.html", 'w+') do |file|
+    File.open("categories/#{category}.html", 'w+') do |file|
       file.puts html
     end
   end
