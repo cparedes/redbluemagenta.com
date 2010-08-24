@@ -43,3 +43,33 @@ title: Postings filed under "#{category}"
   end
   puts 'Done.'
 end
+
+desc 'Generates tag cloud'
+task :tagcloud do
+	puts 'Generating tag cloud...'
+	require 'rubygems'
+	require 'jekyll'
+	include Jekyll::Filters
+
+	options = Jekyll.configuration({})
+	site = Jekyll::Site.new(options)
+	site.read_posts('')
+
+	html =<<-HTML
+	HTML
+
+	site.categories.sort.each do |category, posts|
+		html << <<-HTML
+		HTML
+      
+		s = posts.count
+		font_size = 7 + (s*1.1);
+		html << "<a href=\"/categories/#{category}.html\" title=\"Postings tagged #{category}\" style=\"font-size: #{font_size}px; line-height:#{font_size}px\">#{category}</a> "
+	end
+
+	File.open('_includes/categories.html', 'w+') do |file|
+		file.puts html
+	end
+
+	puts 'Done.'
+end

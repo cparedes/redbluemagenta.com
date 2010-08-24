@@ -4,7 +4,7 @@ title: About
 blurb: More about Ian Paredes.
 ---
 
-<p><a href="/images/ian.jpg" rel="shadowbox;player=img;"><img src="/images/ian.jpg" width="300" height="225" class="aligncenter" rel="shadowbox" /></a></p>
+<p><a href="/images/ian.jpg" rel="shadowbox"><img src="/images/ian.jpg" width="300" height="225" class="aligncenter" rel="shadowbox" /></a></p>
 
 I currently work for [3TIER] [1] as a systems administrator. I also administer
 an OpenBSD router for [Cafe Allegro] [2] with two other volunteer sysadmins. I
@@ -28,8 +28,7 @@ Contact
 * IRC: I’m on irc.freenode.net as "cparedes" on #lopsa, #sasag, and #gslug.
 * Twitter: You may also find me on [Twitter] [5].
 * LinkedIn: Want to network with me? [Here’s my LinkedIn page] [6].
-* Email: Rather than dealing with a deluge of spam by publicly sharing my
-email address, I’ve instead opted to use a [contact form] [7].
+* Email: cp@redbluemagenta.com
 
 About this site
 ---------------
