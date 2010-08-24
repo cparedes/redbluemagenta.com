@@ -41,6 +41,7 @@ title: Postings filed under "#{category}"
       file.puts html
     end
   end
+  sh "git add categories"
   puts 'Done.'
 end
 
