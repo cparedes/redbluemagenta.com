@@ -37,6 +37,8 @@ title: Postings filed under "#{category}"
       HTML
     end
     html << '</ul>'
+
+    category = category.split(/ /).join("_")
     
     File.open("categories/#{category}.html", 'w+') do |file|
       file.puts html
