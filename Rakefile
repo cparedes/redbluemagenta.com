@@ -3,7 +3,7 @@ task :default => [:tags, :commit]
 
 desc 'Commit all files'
 task :commit do
-	sh "git commit -a 'Committing files' ; git push"
+	sh "git commit -a ; git push"
 end
 
 desc 'Generate tags page'
