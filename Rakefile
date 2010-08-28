@@ -29,6 +29,7 @@ title: Postings filed under "#{category}"
     HTML
 
     html << '<ul class="posts">'
+    posts = posts.sort { |a,b| b.date <=> a.date }
     posts.each do |post|
       post_data = post.to_liquid
       html << <<-HTML

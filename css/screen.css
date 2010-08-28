@@ -386,93 +386,10 @@ p.credits {
 	font-size:10px;
 }
 
-.commentlist {
-	list-style:none;
+#disqus_thread {
+	width:100%;
 	display:block;
 	float:left;
-	width:100%;
-	clear:both;
-	padding:0;
-	margin:0 0 20px 0;
-}
-
-.comment {
-	margin:0 auto;
-	padding:10px;
-	width:460px;
-	border-bottom:1px solid #dedede;
-	display:block;
-	float:left;
-}
-
-.commentAvatar {
-	float:left;
-	width:15%;
-}
-
-.commentBody {
-	width:85%;
-	float:right;
-}
-
-.commentInfo {
-	width:100%;
-	float:right;
-}
-
-.commentInfo ul {
-	list-style:none;
-	display:inline;
-	font-size:10px;
-	font-weight:bold;
-}
-
-.commentInfo a {
-	text-decoration:none;	
-}
-
-.commentInfo ul li {
-	display:inline;
-	padding:0 10px 0 0;
-}
-
-.commentAuthor {
-	width:30%;
-	float:left;
-	font-size:14px;
-	/*font-family: 'Didot','Bodoni', 'Times New Roman', serif;*/
-	/*font-family:'Crimson Text', 'Didot', 'Bodoni', serif;*/
-	text-transform:uppercase;
-}
-
-.commentQuote {
-	float:right;	
-}
-
-.commentReply {
-	float:right;	
-}
-
-.commentNumber {
-	float:right;
-}
-
-.commentEdit {
-	float:right;	
-}
-
-.commentContent {
-	width:100%;
-	float:left;
-}
-
-.commentContent img, .commentContent img a {
-	border:none;
-	padding:0;
-}
-
-.commentDate {
-	font-size:10px;	
 }
 
 .pageMeta {
