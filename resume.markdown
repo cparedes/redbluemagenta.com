@@ -5,7 +5,7 @@ blurb: Here's my resume.
 ---
 
 CHRISTIAN PAREDES
-----------------
+------------------
 
 Contact information available upon request.
 
@@ -14,7 +14,7 @@ Summary of Qualifications
 
 * SAGE Level II Systems Administrator with one year of systems administration experience.
 * Operating Systems:
-	- Intermediate: *BSD, Linux.
+	- Intermediate: &#42BSD, Linux.
 	- Novice: Mac OS X Server, Windows Server.
 * Programming and Scripting Languages: 
 	- Intermediate: UNIX shell scripting, XHTML, CSS, LaTeX.
@@ -23,7 +23,6 @@ Summary of Qualifications
 	- Novice: MySQL, PostgreSQL.
 * Certifications: A+ (July 2002)
 * Professional Organizations: Paying member of SAGE and LOPSA.
-
 
 Experience
 ----------
@@ -110,7 +109,7 @@ Experience
 
 
 Education
---------
+---------
 
 *   University of Washington - Seattle, WA  
     BA Mathematics and Philosophy: June 2009
@@ -122,13 +121,12 @@ Education
 
 
 Web Programming and Design Portfolio
---------------------------------
+------------------------------------
 
-* [redbluemagenta] [2]
+* [redbluemagenta][rbm]
 
 	- Programmed Wordpress theme with light PHP, XHTML, and CSS.
 	- Self-managed NetBSD 5.0.2 Xen DomU server running lighttpd and MySQL.  Backed up daily to Amazon's S3
 	  service via duplicity.
 
-[1]: /resume.txt
-[2]: http://www.redbluemagenta.com
+[rbm]: http://redbluemagenta.com
