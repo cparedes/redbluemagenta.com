@@ -6,7 +6,7 @@ categories:
 - Systems Administration
 - Work
 ---
-(<a href="http://www.redbluemagenta.com/index.php/2009/12/08/life-as-a-junior-sysadmin-part-i/">Here's the link to Part I.</a>)
+(<a href="http://www.redbluemagenta.com/2009/12/08/life-as-a-junior-sysadmin-part-i/">Here's the link to Part I.</a>)
 
 It's been roughly a year since I've been out of school and have worked as a junior sysadmin for roughly that long as well; in terms of sysadmin-esque experience, I've worked at a research lab, at a high school, and now at a managed web hosting company, and have learned a lot within this short span of time.  My current position has especially taught me a lot in how to do things in a large site that has to run 24x7; for instance, there has to be a lot of caution on which servers to deal with, as one could be either the main load balancer, or it could just be a load balanced slave machine.  And if things must be done on a host that's a single point of failure, then there ALWAYS ALWAYS must be a back out plan.
 
