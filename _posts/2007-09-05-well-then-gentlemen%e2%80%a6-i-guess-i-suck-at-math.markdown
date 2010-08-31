@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Well then gentlemen\xE2\x80\xA6 I guess I suck at math"
+post_id: "310"
 categories:
 - Math
 - School

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "I\xE2\x80\x99m retarded at planning classes."
+post_id: "321"
 categories:
 - School
 ---

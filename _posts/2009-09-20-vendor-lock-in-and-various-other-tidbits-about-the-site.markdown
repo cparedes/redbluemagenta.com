@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Vendor lock-in (and various other tidbits about the site!)
+post_id: "258"
 categories:
 - Computers
 - Rant

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "The Culture of Narcissism: Notes #1, Preface and half of first section"
+post_id: "275"
 categories:
 - Human Interaction
 ---

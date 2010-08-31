@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Irritation, nausea: the motivators of further autoamputation and the consequent numbness of the senses"
+post_id: "318"
 categories:
 - Human Interaction
 - Mcluhan

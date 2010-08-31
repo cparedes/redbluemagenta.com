@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Yet again, financial aid woes
+post_id: "278"
 categories:
 - School
 ---

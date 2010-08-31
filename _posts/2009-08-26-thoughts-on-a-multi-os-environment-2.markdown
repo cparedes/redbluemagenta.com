@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Thoughts on a multi-OS environment
+post_id: "257"
 categories:
 - Active Directory
 - Computers

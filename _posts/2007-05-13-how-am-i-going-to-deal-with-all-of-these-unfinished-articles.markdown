@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: How am I going to deal with all of these unfinished articles
+post_id: "272"
 categories:
 - Random
 ---

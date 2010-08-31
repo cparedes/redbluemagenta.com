@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Sweet, new computer parts coming in soon
+post_id: "268"
 categories:
 - Computers
 ---
@@ -25,6 +26,6 @@ Fuck yeah.  I'll probably post some porno pictures of this setup when I have it 
 
 It's awesome.  I've been using it for a couple of weeks now, and man, it's powerful as shit.  Here's a picture that displays everything that I ordered:
 
-<a href='http://blog.redbluemagenta.com/2007/04/10/sweet-new-computer-parts-coming-in-soon/computer-parts/' rel='attachment wp-att-17' title='Computer Parts'><img src='http://blog.redbluemagenta.com/images/uploads/2007/04/imgp3736ha7.thumbnail.jpg' alt='Computer Parts' /></a>
+<a href='http://blog.redbluemagenta.com/2007/04/10/sweet-new-computer-parts-coming-in-soon/computer-parts/' rel='attachment wp-att-17' title='Computer Parts'><img src='http://blog.redbluemagenta.com/wp-content/uploads/2007/04/imgp3736ha7.thumbnail.jpg' alt='Computer Parts' /></a>
 
 Well, almost everything.  The stuff in the bubble wrap in the lower right corner is the hard drive as well as a floppy drive.

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Solutions to Project Euler Problems #1 and #2"
+post_id: "114"
 categories:
 - Math
 - Programming

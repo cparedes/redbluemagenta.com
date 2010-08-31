@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: How to keep people in your organization, especially smart people
+post_id: "611"
 categories:
 - Agile
 - Business

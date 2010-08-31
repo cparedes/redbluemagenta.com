@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Life as a "junior sysadmin", Part I
+post_id: "219"
 categories:
 - Computers
 - Networks

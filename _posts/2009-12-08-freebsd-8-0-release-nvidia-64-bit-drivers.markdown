@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: FreeBSD 8.0-RELEASE + nVidia 64-bit drivers!
+post_id: "220"
 categories:
 - Computers
 - Freebsd

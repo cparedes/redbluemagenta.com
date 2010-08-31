@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Lessons from administering the Cafe Allegro network
+post_id: "707"
 categories:
 - Café Allegro
 - Systems Administration

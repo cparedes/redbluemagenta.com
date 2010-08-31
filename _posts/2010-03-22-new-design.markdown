@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: New design
+post_id: "8"
 categories:
 - Netbsd
 - Oops

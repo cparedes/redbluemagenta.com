@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Philosophy class scheduling, ugh!
+post_id: "442"
 categories:
 - Classes
 - Philosophy

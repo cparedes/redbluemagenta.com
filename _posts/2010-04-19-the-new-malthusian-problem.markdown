@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The New Malthusian Problem
+post_id: "99"
 categories:
 - College
 - Malthusian Problem

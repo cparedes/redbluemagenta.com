@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: New redbluemagenta WP theme.
+post_id: "528"
 categories:
 - Theme
 - Website

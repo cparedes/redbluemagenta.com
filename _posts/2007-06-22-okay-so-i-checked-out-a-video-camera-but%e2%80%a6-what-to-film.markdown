@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Okay, so I checked out a video camera, but\xE2\x80\xA6 what to film?!"
+post_id: "284"
 categories:
 - Random
 ---

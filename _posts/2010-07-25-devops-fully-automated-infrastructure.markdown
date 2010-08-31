@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "DevOps: Fully Automated Infrastructure"
+post_id: "645"
 categories:
 - Devops
 - Systems Administration

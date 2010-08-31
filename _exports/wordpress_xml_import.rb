@@ -16,6 +16,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and wp:post_type = 'po
     slug = post['wp:post_name'].text
     date = DateTime.parse(post['wp:post_date'].text)
     name = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day, slug]
+    id = post['wp:post_id'].text
 
     content = post['content:encoded'].text
 
@@ -33,6 +34,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and wp:post_type = 'po
         'layout' => 'post',
         'title' => post['title'].text,
         'excerpt' => post['excerpt:encoded'].text,
+	'post_id' => id
      }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
      categories = Array.new

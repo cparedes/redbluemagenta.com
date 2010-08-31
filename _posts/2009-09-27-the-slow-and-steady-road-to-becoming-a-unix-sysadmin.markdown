@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: The slow and steady road to becoming a UNIX sysadmin
+post_id: "214"
 categories:
 - Career
 - Computers

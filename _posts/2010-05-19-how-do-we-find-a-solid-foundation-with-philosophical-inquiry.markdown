@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: How do we find a solid foundation with philosophical inquiry?
+post_id: "187"
 categories:
 - Foundations
 - Philosophy

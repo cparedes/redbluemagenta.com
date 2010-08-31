@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Inevitable academic probation
+post_id: "356"
 categories:
 - Personal
 - School

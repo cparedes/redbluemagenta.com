@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Puppet
+post_id: "519"
 categories:
 - Computers
 - Configuration Management

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: UNIX Self-Training!
+post_id: "450"
 categories:
 - Bsd
 - Computers

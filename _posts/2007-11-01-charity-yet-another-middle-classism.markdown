@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Charity: yet another middle classism"
+post_id: "340"
 categories:
 - Human Interaction
 - Rant

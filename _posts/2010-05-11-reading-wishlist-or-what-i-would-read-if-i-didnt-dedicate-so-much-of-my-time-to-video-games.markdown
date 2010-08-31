@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Reading wishlist, or, what I would read if I didn't dedicate so much of my time to video games
+post_id: "112"
 categories:
 - David Foster Wallace
 - Fyodor Dostoyevsky

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Monthly blog archives in Rails using by_star
+post_id: "631"
 categories:
 - By_star
 - Enki
@@ -18,14 +19,12 @@ First of all, in Enki, there's a separate Archives controller and route already 
 
 Before doing this, be sure to install the by_star gem:
 
-{% highlight bash %}
-# gem install by_star
-{% endhighlight %}
+<pre>`gem install by_star`</pre>
 
 Here's what the controller looks like:
 
-{% highlight ruby %}
-class ArchivesController < ApplicationController
+<pre>
+<code>class ArchivesController < ApplicationController
 ...
 def show
     year = params[:year]
@@ -40,17 +39,17 @@ def show
       @entries = Post.by_year(year).reverse
     end
   end
-end
-{% endhighlight %}
+end</code>
+</pre>
 
 Here's what my routes.rb file looks like:
 
-{% highlight ruby %}
-...
+<pre>
+<code>...
   map.archives '/archives', :controller => 'archives', :action => 'index'
   map.connect '/archives/:year/:month/:day', :controller => 'archives', :action => 'show'
   map.connect '/archives/:year/:month', :controller => 'archives', :action => 'show'
-  map.connect '/archives/:year', :controller => 'archives', :action => 'show'
-{% endhighlight %}
+  map.connect '/archives/:year', :controller => 'archives', :action => 'show'</code>
+</pre>
 
 The next thing I'm working on is the page that's displayed when the user visits /archives/; the page should only display the years that actually have posts, and after the user clicks the year, it'll drop down a list of months that have posts.

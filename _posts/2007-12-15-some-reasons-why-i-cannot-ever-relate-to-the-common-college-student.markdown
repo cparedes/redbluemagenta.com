@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Some reasons why I cannot ever relate to the common college student
+post_id: "367"
 categories:
 - Rant
 - School

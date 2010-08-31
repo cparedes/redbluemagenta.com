@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Views on religion as of 10/04/07
+post_id: "331"
 categories:
 - Philosophy
 - Religion

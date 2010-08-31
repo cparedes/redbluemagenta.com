@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: From contracting to full time employment
+post_id: "530"
 categories:
 - 3tier
 - Jambool

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Thoughts on game server fault tolerance
+post_id: "101"
 categories:
 - Fault Tolerance
 - Game Server Administration
@@ -14,7 +15,7 @@ However, let's consider FPS game servers: the game players expect low latency fo
 
 The major challenge (that I can see so far) is the following: we must preserve the game state between all of the participating game servers.  If one server goes down - assuming that our modified protocol migrates everyone perfectly to the backup server - we need to have the backup game server have the entire game environment replicated, so that it doesn't disrupt gameplay.  One way we could possibly do this is to have a machine that handles the TCP connections in front, and multicasts that traffic to both game servers.  Thus, the players are in fact playing on both game servers at the same time.
 
-<a href="http://www.redbluemagenta.com/images/uploads/2010/04/fig1_gameserver.gif"><img src="http://www.redbluemagenta.com/images/uploads/2010/04/fig1_gameserver-300x300.gif" alt="" title="Figure 1, &quot;Game Server Fault Tolerance&quot;" width="300" height="300" /></a>
+<a href="http://www.redbluemagenta.com/wp-root/wp-content/uploads/2010/04/fig1_gameserver.gif"><img src="http://www.redbluemagenta.com/wp-root/wp-content/uploads/2010/04/fig1_gameserver-300x300.gif" alt="" title="Figure 1, &quot;Game Server Fault Tolerance&quot;" width="300" height="300" /></a>
 
 However, we cannot guarantee that the game state is in fact equivalent on both machines; this would be even more troublesome if there was an element of AI in the game, which we can safely assume will do different actions on either server.
 

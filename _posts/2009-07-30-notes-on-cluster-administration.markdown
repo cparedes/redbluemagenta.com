@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Notes on Cluster Administration
+post_id: "254"
 categories:
 - Computers
 ---

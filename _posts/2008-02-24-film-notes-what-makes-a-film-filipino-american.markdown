@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Film notes: what makes a film \"Filipino-American?\""
+post_id: "423"
 categories:
 - Culture
 - Filipino-american

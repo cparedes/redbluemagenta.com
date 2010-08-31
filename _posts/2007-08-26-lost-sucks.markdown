@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Lost sucks.
+post_id: "303"
 categories:
 - Rant
 - Tv

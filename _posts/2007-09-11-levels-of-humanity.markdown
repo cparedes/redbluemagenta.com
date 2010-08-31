@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Levels of humanity
+post_id: "313"
 categories:
 - Human Interaction
 - Philosophy

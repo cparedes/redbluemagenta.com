@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "The Culture of Narcissism: Notes #3, Chapters 2, 3, part of 4"
+post_id: "277"
 categories:
 - Human Interaction
 ---

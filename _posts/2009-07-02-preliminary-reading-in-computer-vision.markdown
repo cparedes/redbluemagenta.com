@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Preliminary Reading in Computer Vision
+post_id: "252"
 categories:
 - Cat Recognition
 - Computer Vision

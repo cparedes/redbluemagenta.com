@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "A maxim through the form of a \xE2\x80\x9Cprayer,\xE2\x80\x9D and various other thoughts related to it"
+post_id: "287"
 categories:
 - Human Interaction
 ---

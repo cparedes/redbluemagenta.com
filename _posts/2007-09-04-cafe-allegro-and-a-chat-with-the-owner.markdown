@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Caf\xC3\xA9 Allegro, and a chat with the owner"
+post_id: "309"
 categories:
 - Café Allegro
 - Human Interaction

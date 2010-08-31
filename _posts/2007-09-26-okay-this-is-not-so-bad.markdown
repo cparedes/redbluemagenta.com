@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Okay, this is not so bad
+post_id: "322"
 categories:
 - School
 ---
@@ -14,4 +15,4 @@ Itinerary:
 <li>Johnson to Denny Hall</li>
 </ol>
 
-<a href='http://blog.redbluemagenta.com/images/uploads/2007/09/16590.jpg' title='FALL07 Wednesday/Friday Route'><img src='http://blog.redbluemagenta.com/images/uploads/2007/09/16590.jpg' alt='FALL07 Wednesday/Friday Route' /></a>
+<a href='http://blog.redbluemagenta.com/wp-content/uploads/2007/09/16590.jpg' title='FALL07 Wednesday/Friday Route'><img src='http://blog.redbluemagenta.com/wp-content/uploads/2007/09/16590.jpg' alt='FALL07 Wednesday/Friday Route' /></a>

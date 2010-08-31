@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "\xE2\x80\x9CPrinciples of Mathematical Analysis\xE2\x80\x9D by Rudin, so far"
+post_id: "298"
 categories:
 - Books
 - Math

@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: HA Clustering
+post_id: "218"
 categories:
 - Computers
 - High Availability Clusters

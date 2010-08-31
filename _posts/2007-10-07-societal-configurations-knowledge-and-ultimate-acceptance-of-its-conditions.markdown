@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Societal configurations: knowledge and ultimate acceptance of its conditions"
+post_id: "334"
 categories:
 - Café Allegro
 - Conversation

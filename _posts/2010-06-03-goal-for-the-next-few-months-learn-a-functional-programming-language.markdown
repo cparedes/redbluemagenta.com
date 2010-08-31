@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Goal for the next few months: learn a functional programming language."
+post_id: "502"
 categories:
 - Computers
 - Erlang

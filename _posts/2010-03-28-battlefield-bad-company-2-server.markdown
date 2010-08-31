@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: "Battlefield: Bad Company 2 Server"
+post_id: "82"
 categories:
 - Battlefield Bad Company 2
 - Games

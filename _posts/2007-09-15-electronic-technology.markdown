@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Electronic technology
+post_id: "315"
 categories:
 - Computers
 - Mcluhan
