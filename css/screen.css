@@ -283,8 +283,8 @@ h6 {
 	width:480px;
 	height:100%;
 	min-height:100%;
-	border-left:1px solid #999;
-	border-right:1px solid #999;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
 }
 
 #pageBody img {
