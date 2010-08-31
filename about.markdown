@@ -40,9 +40,7 @@ entire development cycle, I’ve used git for source control and sharing source
 code between multiple machines. I’ve employed @font-face on two fonts on this
 site for a consistent viewing experience.
 
-I might be sharing my work as a BSD licensed theme, but there’s a lot of extra
-work involved in removing any site-specific customizations from my particular
-theme installation.
+You can find this theme and all of the posts on this blog on [GitHub].
 
 [1]: http://3tier.com
 [2]: http://seattleallegro.com
@@ -54,3 +52,4 @@ theme installation.
 [8]: http://github.com/mojombo/jekyll
 [9]: http://prgmr.com
 [ian]: /images/ian.jpg
+[GitHub]: http://github.com/cparedes/redbluemagenta.com
