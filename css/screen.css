@@ -59,7 +59,7 @@ img.regular, a img.regular {
 	margin:0;
 }
 
-.pageBody a:hover img.regular {
+#pageBody a:hover img.regular {
 	border:none;
 }
 
