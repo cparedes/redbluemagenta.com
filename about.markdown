@@ -4,7 +4,7 @@ title: About
 blurb: More about Ian Paredes.
 ---
 
-<p><a href="/images/ian.jpg" rel="lightbox">Test</a></p>
+<p><a href="/images/ian.jpg" title="Ian in the flesh" rel="lightbox"><img src="/images/ian.jpg" width="300" height="225" class="aligncenter" /></a></p>
 
 I currently work for [3TIER] [1] as a systems administrator. I also administer
 an OpenBSD router for [Cafe Allegro] [2] with two other volunteer sysadmins. I
