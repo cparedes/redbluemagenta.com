@@ -135,7 +135,7 @@ h6 {
 	color:#1240AB;
 }
 
-.pageSidebar {
+#pageSidebar {
 	width:160px;
 	float:left;
 	display:block;
@@ -209,15 +209,6 @@ h6 {
 	line-height:14px;
 }
 
-.sidebar ul {
-	list-style:none;
-	padding:0 0 0 10px;
-}
-
-.sidebar .selected, .sidebar .selected a {
-	text-decoration:none;
-}
-
 #sidebarDesc {
 	margin:0 0 20px 0;
 	padding:5px 0 5px 0;
@@ -262,7 +253,7 @@ h6 {
 	border:1px solid #aaa;
 }
 
-.page {
+#page {
 	position:relative;
 	display:block;
 	margin:0 auto;
@@ -270,21 +261,21 @@ h6 {
 	min-height:100%;
 }
 
-.pageBlurb {
+#pageBlurb {
 	border-top:1px solid #dedede;
 	border-bottom:1px solid #dedede;
 	padding:10px;
 	margin:0 0 20px 0;
 }
 
-.pageBlurb h1 {
+#pageBlurb h1 {
 	color:#000;
 	font-size:36px;
 	padding:0;
 	margin:0;
 }
 
-.pageBody {
+#pageBody {
 	background:#fff;
 	padding:40px 80px 0 80px;
 	margin:0 20px 0 0;
@@ -296,12 +287,12 @@ h6 {
 	-webkit-box-shadow: #999 1px 1px 20px;
 }
 
-.pageBody img {
+#pageBody img {
 	border:1px solid #aaa;
 	padding:5px;
 }
 
-.pageBody a:hover img {
+#pageBody a:hover img {
 	border:1px solid #000;
 }
 
@@ -379,7 +370,7 @@ p.tags {
 	float:right;	
 }
 
-p.credits {
+p#credits {
 	clear:both;
 	display:block;
 	float:right;
@@ -393,7 +384,7 @@ p.credits {
 	float:left;
 }
 
-.pageMeta {
+#pageMeta {
 	background:#cecece;
 	width:560px;
 	display:block;
@@ -402,7 +393,7 @@ p.credits {
 	padding:20px 20px 0px 60px;
 }
 
-.pageMeta ul {
+#pageMeta ul {
 	list-style:none;
 	/*border-top:1px solid #dedede;
 	border-bottom:1px solid #dedede;*/
@@ -416,21 +407,21 @@ p.credits {
 	line-height:12px;
 }
 
-.pageMeta li {
+#pageMeta li {
 	padding:0 0 5px 0;	
 }
 
-.pageMeta a {
+#pageMeta a {
 	text-decoration:none;	
 	color:#666;
 	font-weight:normal;
 }
 
-.pageMeta a:hover {
+#pageMeta a:hover {
 	color:#858585;
 }
 
-.pageMeta h3 {
+#pageMeta h3 {
 	font-family:'ContraRegular', serif;
 	margin:5px 0 0 0;
 	font-size:16px;

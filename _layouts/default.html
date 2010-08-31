@@ -5,16 +5,16 @@
 	{% include meta.html %}
 	{% include googleanalytics.html %}
 	{% include jquery.html %}
-	{% include slimbox.html %}
+	{% include shadowbox.html %}
 </head>
 
 <body>
-	<div class="page">
-		<div class="pageSidebar">
+	<div id="page">
+		<div id="pageSidebar">
 			{% include sidebar.html %}
 		</div>
 
-		<div class="pageBody">
+		<div id="pageBody">
 			{% include body.html %}
 			{% include footer.html %}
 		</div>
