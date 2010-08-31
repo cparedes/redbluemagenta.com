@@ -25,6 +25,9 @@ layout: default
   /**
     * var disqus_identifier; [Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread] 
     */
+	{% if page.post_id %}
+		var disqus_identifier = {{ page.post_id }}
+	{% endif %}
   (function() {
    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
    dsq.src = 'http://redbluemagenta.disqus.com/embed.js';
