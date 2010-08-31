@@ -53,13 +53,13 @@ img.alignleft {
 	margin:5px 10px 5px 0;
 }
 
-img.regular, a img.regular {
+#pageBody img.regular, a img.regular {
 	border:none;
 	padding:0;
 	margin:0;
 }
 
-a:hover img.regular {
+#pageBody a:hover img.regular {
 	border:none;
 }
 
