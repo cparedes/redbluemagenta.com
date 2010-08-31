@@ -1,6 +1,7 @@
 @import url("fonts/newathena.css");
 @import url("fonts/cartogothic.css");
 @import url("fonts/contra.css");
+@import url("syntax.css");
 
 html {
 	font-size:16px;

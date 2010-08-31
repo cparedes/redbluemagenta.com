@@ -18,12 +18,14 @@ First of all, in Enki, there's a separate Archives controller and route already 
 
 Before doing this, be sure to install the by_star gem:
 
-<pre>`gem install by_star`</pre>
+{% highlight bash %}
+# gem install by_star
+{% endhighlight %}
 
 Here's what the controller looks like:
 
-<pre>
-<code>class ArchivesController < ApplicationController
+{% highlight ruby %}
+class ArchivesController < ApplicationController
 ...
 def show
     year = params[:year]
@@ -38,17 +40,17 @@ def show
       @entries = Post.by_year(year).reverse
     end
   end
-end</code>
-</pre>
+end
+{% endhighlight %}
 
 Here's what my routes.rb file looks like:
 
-<pre>
-<code>...
+{% highlight ruby %}
+...
   map.archives '/archives', :controller => 'archives', :action => 'index'
   map.connect '/archives/:year/:month/:day', :controller => 'archives', :action => 'show'
   map.connect '/archives/:year/:month', :controller => 'archives', :action => 'show'
-  map.connect '/archives/:year', :controller => 'archives', :action => 'show'</code>
-</pre>
+  map.connect '/archives/:year', :controller => 'archives', :action => 'show'
+{% endhighlight %}
 
 The next thing I'm working on is the page that's displayed when the user visits /archives/; the page should only display the years that actually have posts, and after the user clicks the year, it'll drop down a list of months that have posts.

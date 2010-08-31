@@ -4,3 +4,4 @@ exclude: Rakefile, README.markdown
 permalink: /:year/:month/:day/:title
 paginate: 3
 paginate_file: blog.markdown
+pygments: true
