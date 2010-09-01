@@ -18,16 +18,16 @@ I currently live in my hometown, Seattle, WA. I live with my girlfriend, Sara;
 her dog, Riley; and my cat, Eve.
 
 This site is a place where I write about my professional work and a few other
-topics that are of personal interest. I’m still new to the field, though I
+topics that are of personal interest. I'm still new to the field, though I
 hope to contribute a few technical articles here and there for those who are
 looking for a little bit of help.
 
 Contact
 -------
 
-* IRC: I’m on irc.freenode.net as "cparedes" on #lopsa, #sasag, and #gslug.
+* IRC: I'm on irc.freenode.net as "cparedes" on #lopsa, #sasag, and #gslug.
 * Twitter: You may also find me on [Twitter] [5].
-* LinkedIn: Want to network with me? [Here’s my LinkedIn page] [6].
+* LinkedIn: Want to network with me? [Here's my LinkedIn page] [6].
 * Email: cp@redbluemagenta.com
 
 About this site
@@ -36,8 +36,8 @@ About this site
 redbluemagenta is a blog generated with [Jekyll] [8] on a Debian Lenny
 [prgmr.com] [9] virtual slice. The design and code for the website theme was
 all done in vim and TextMate with a pinch of Photoshop here and there. For the
-entire development cycle, I’ve used git for source control and sharing source
-code between multiple machines. I’ve employed @font-face on two fonts on this
+entire development cycle, I've used git for source control and sharing source
+code between multiple machines. I've employed @font-face on two fonts on this
 site for a consistent viewing experience.
 
 You can find this theme and all of the posts on this blog on [GitHub].

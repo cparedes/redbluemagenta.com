@@ -6,6 +6,7 @@
 	{% include googleanalytics.html %}
 	{% include jquery.html %}
 	{% include slimbox.html %}
+	{% include syntaxhighlighter.html %}
 </head>
 
 <body>
@@ -26,6 +27,9 @@ var disqus_shortname = 'redbluemagenta';
   s.src = 'http://disqus.com/forums/redbluemagenta/count.js';
   (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 }());
+</script>
+<script type="text/javascript">
+	SyntaxHighlighter.all();
 </script>
 
 </body>
