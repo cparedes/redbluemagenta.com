@@ -18,7 +18,7 @@ body {
 	height:100%;
 }
 
-pre {
+/*pre {
 	border:1px solid #dedede;
 	font-family:'Courier New', courier, monospace;
 	font-size:12px;
@@ -32,7 +32,7 @@ pre {
 
 pre code {
 	display:block;
-}
+}*/
 
 label {
 	font-size:12px;
