@@ -42,7 +42,7 @@ def show
     end
   end
 end
-</script>
+</pre>
 
 Here's what my routes.rb file looks like:
 
