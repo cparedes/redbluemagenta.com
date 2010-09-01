@@ -19,12 +19,14 @@ First of all, in Enki, there's a separate Archives controller and route already 
 
 Before doing this, be sure to install the by_star gem:
 
-<pre>`gem install by_star`</pre>
+<pre class="brush: shell">
+$ gem install by_star
+</pre>
 
 Here's what the controller looks like:
 
-<pre>
-<code>class ArchivesController < ApplicationController
+<pre class="brush: ruby">
+class ArchivesController < ApplicationController
 ...
 def show
     year = params[:year]
@@ -39,13 +41,13 @@ def show
       @entries = Post.by_year(year).reverse
     end
   end
-end</code>
+end
 </pre>
 
 Here's what my routes.rb file looks like:
 
-<pre>
-<code>...
+<pre class="brush: ruby">
+...
   map.archives '/archives', :controller => 'archives', :action => 'index'
   map.connect '/archives/:year/:month/:day', :controller => 'archives', :action => 'show'
   map.connect '/archives/:year/:month', :controller => 'archives', :action => 'show'
