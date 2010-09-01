@@ -25,7 +25,7 @@ $ gem install by_star
 
 Here's what the controller looks like:
 
-<pre class="brush: ruby">
+<script type="syntaxhighlighter class="brush: ruby"><![CDATA[
 class ArchivesController < ApplicationController
 ...
 def show
@@ -42,7 +42,7 @@ def show
     end
   end
 end
-</pre>
+]]></script>
 
 Here's what my routes.rb file looks like:
 
