@@ -18,7 +18,7 @@ body {
 	height:100%;
 }
 
-pre {
+/*pre {
 	border:1px solid #dedede;
 	font-family:'Courier New', courier, monospace;
 	font-size:12px;
@@ -27,8 +27,8 @@ pre {
 	margin:0 0 10px 0;
 	background:#efefef;
 	overflow:auto;
-	overflow-Y: hidden; /* hide vertical scroll bar for IE */
-}
+	overflow-Y: hidden;
+}*/
 
 pre code {
 	display:block;
