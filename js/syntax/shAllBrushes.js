@@ -5,7 +5,7 @@ function path()
       ;
        
   for(var i = 0; i < args.length; i++)
-      result.push(args[i].replace('@', '/js/'));
+      result.push(args[i].replace('@', '/js/syntax/'));
        
   return result
 };
