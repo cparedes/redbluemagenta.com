@@ -1,6 +1,6 @@
 markdown: rdiscount
 google_analytics_code: UA-17521748-1
-exclude: Rakefile, README.markdown
+exclude: Rakefile, README.markdown, NOTES.markdown
 permalink: /:year/:month/:day/:title
 paginate: 3
 paginate_file: blog.markdown
