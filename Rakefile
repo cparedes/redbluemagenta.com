@@ -23,7 +23,7 @@ task :tags do
 layout: default
 title: Postings filed under "#{category}"
 ---
-    <div class ="pageBlurb">
+    <div class="pageBlurb">
         <h1>Postings filed under "#{category}"</h1>
     </div>
     HTML
