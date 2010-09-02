@@ -11,6 +11,20 @@ and [LOPSA] [2].
 Also, you might be wondering what "SAGE Level II" means: [here's a list of
 job descriptions from SAGE] [3].
 
+Wait, what's a sysadmin anyway?
+-------------------------------
+
+Good question.  It's someone (usually in an IT department) who is typically
+seen as the jack of all trades; they're the ones who fix your computers and
+also handle your mail server.  They don't usually handle one server
+(what most people think of when they think "system"): they handle *systems*
+of computers, intertwined together with a network.  They make sure that
+when you hit the "send" button on your mail client, the mail *reliably*
+gets to the other side of the internet.  When there's an incident that causes
+a lot of data to be wiped out, the sysadmin is usually one step ahead and
+made sure that there's multiple backups of critical systems.  We manage
+hidden complexities so no one else has to. :)
+
 Specializations
 ---------------
 
