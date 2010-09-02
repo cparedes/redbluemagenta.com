@@ -28,9 +28,8 @@ hidden complexities so no one else has to. :)
 Specializations
 ---------------
 
-I specialize in HPC administration and web services.  I've also fallen in love
-recently with modern configuration management tools, such as Puppet and
-various others. 
+I specialize in web services.  I've fallen in love recently with modern
+configuration management tools, such as Puppet and various others. 
 
 Current Interests in Systems Administration
 -------------------------------------------
