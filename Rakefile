@@ -23,12 +23,12 @@ task :tags do
 layout: default
 title: Postings filed under "#{category}"
 ---
-    <div class="pageBlurb">
+    <div id="pageBlurb">
         <h1>Postings filed under "#{category}"</h1>
     </div>
     HTML
 
-    html << '<ul class="posts">'
+    html << '<ul id="posts">'
     posts = posts.sort { |a,b| b.date <=> a.date }
     posts.each do |post|
       post_data = post.to_liquid
