@@ -17,11 +17,11 @@ Puppet communicates to the master server in XML-RPC over HTTP with YAML formatte
 
 How does Puppet handle different systems and architectures?  More often than not, we use another program that Puppet depends on called "facter," which is a Ruby program that grabs the various "facts" about a particular system and stores them in variables that Puppet can then refer to.  For instance, if say we wanted to install apache2 on CentOS and Debian systems, we would write this bit of code in Puppet in order to catch all of the possible package names:
 
-<pre><code>$apachepkg = case $operatingsystem {
+<pre class="brush: ruby">$apachepkg = case $operatingsystem {
         debian => 'apache2',
         centos => 'httpd',
         default => undef
-}</code></pre>
+}</pre>
 
 <em>(Note: $operatingsystem is a global variable that is pulled in from facter.  If we had any other variables that we wanted to assign through facter in the future, we can easily do that.)</em>
 

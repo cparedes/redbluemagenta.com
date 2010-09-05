@@ -21,11 +21,11 @@ categories:
 
 <p>As for Linode.com's unique features, there's a nice web frontend for deploying distributions on the hard drive (which by the way, if you wanted to wipe your entire installation and wanted to deploy a new distribution, only about five minutes) and for managing DNS records.  Also, they provide out of band login to your machine via SSH without having direct network access to your box.  This has saved my ass many times; I've ended up toasting an Arch Linux installation and was able to recover the installation via their out of band SSH interface.  They also provide graphs of network traffic, CPU usage, and disk i/o.  Speaking of disk i/o:</p>
 
-<pre><code>$ sudo hdparm -Tt /dev/xvda
+<pre class="brush: bash">$ sudo hdparm -Tt /dev/xvda
 /dev/xvda:
  Timing cached reads:   9414 MB in  1.99 seconds = 4721.44 MB/sec
  Timing buffered disk reads:  382 MB in  3.00 seconds = 127.33 MB/sec
-</code></pre>
+</pre>
 
 <p>Not bad.  I haven't done too much other testing yet, other than briefly running a 24 slot TF2 server.  However, I took it down after calculating how much bandwidth would be required each month in order to run such a server; I think it would be much safer to run a single 4 or 8 player L4D server.</p>
 
