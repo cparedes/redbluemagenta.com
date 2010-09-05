@@ -1,10 +1,10 @@
 ---
 layout: default
-title: redbluemagenta
+title: Home
 blurb: Ian is a SAGE Level II System Administrator.
 ---
 
-I'm a junior systems administrator working mostly with BSD and Linux systems,
+I'm a systems administrator working mostly with BSD and Linux systems,
 especially with Debian, CentOS/RHEL, and OpenBSD.  I'm a member of [SAGE] [1]
 and [LOPSA] [2].
 
