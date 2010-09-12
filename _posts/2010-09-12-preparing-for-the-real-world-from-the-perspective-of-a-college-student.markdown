@@ -70,7 +70,7 @@ I think it's still important why you should be as honest as possible.  This
 requires a lot of self-reflection in order to figure out where your skills
 are actually at.
 
- * phew * This became a much longer blog post than usual. I'm still learning
+Phew, this became a much longer blog post than usual. I'm still learning
 a lot of this stuff as I go along, and please do correct me in various parts
 if I'm totally off in my advice.  A lot of these things have worked for me,
 but it may not work for everyone.
