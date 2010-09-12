@@ -27,27 +27,27 @@ Summary of Qualifications
 Experience
 ----------
 
-*   Senior System Administrator - Seattle, WA
-    Blue Box Group: September 2010 - Present
+*   **Senior System Administrator** - Seattle, WA
+    *Blue Box Group*: September 2010 - Present
 
 	- Haven't started here yet, will update this space when I start.
 
-*   Systems Administrator - Seattle, WA  
-    3TIER Group: July 2010 - September 2010
+*   **Systems Administrator** - Seattle, WA  
+    *3TIER Group*: July 2010 - September 2010
 
 	- Built our backup infrastructure using Bacula and custom administrative shell scripts.
 	- Provided help desk service for 60+ employees in our Seattle and Panama offices.
 
-*   Jr. Systems Administrator (contractor) - Seattle, WA  
-    Jambool, Inc.: June 2010 - July 2010
+*   **Jr. Systems Administrator (contractor)** - Seattle, WA  
+    *Jambool, Inc.*: June 2010 - July 2010
 
 	- Wrote Puppet recipes for Wordpress and MediaWiki as a part of an overall effort to
 	  switch all systems over to Puppet.
 	- Maintained EC2 instances and physical servers with Puppet.
 	- Migrated Jambool's blog, internal wiki, and OpenVPN concentrators to new hosts.
 
-*   Systems Administrator - Seattle, WA  
-    Accretive Technology Group: March 2010 - June 2010
+*   **Systems Administrator** - Seattle, WA  
+    *Accretive Technology Group*: March 2010 - June 2010
 
 	- Wrote shell and Perl scripts for system maintenance, automation, and configuration
 	  management of 500+ Debian and FreeBSD machines.
@@ -56,8 +56,8 @@ Experience
 	- Setup replication across several MySQL servers.
 	- Created Debian packages for the local repository.
 
-*   Systems and Network Consultant - Seattle, WA  
-    Cafe Allegro: September 2009 - September 2010
+*   **Systems and Network Consultant** - Seattle, WA  
+    *Cafe Allegro*: September 2009 - September 2010
 
 	- Redesigned the wireless infrastructure from scratch.
 	- Deployed OpenBSD server for routing and firewall services for wireless clients.
@@ -67,8 +67,8 @@ Experience
 	- Handled smooth transition from our managed solution to a self-managed solution after end
 	  of consulting period.
 
-*   Systems Administrator - Seattle, WA  
-    Bishop Blanchet High School, Technology Department: August 2009 - February 2010
+*   **Systems Administrator** - Seattle, WA  
+    *Bishop Blanchet High School, Technology Department*: August 2009 - February 2010
 
 	- Increased systems awareness by implementing a centralized logging service and a network monitoring
 	  service on FreeBSD 7.2 with syslog-ng, Nagios, and MRTG.
@@ -81,8 +81,8 @@ Experience
 	- Promoted from help desk technician to systems administrator within four months of employment, due to
 	  demonstrative improvement of the services provided to all members of the school.
 
-*   Student Assistant in Web Development and Systems Administration - Seattle, WA  
-    UW Heinecke Lab, Division of Metabolism, Endocrinology and Nutrition: December 2008 - August 2009
+*   **Student Assistant in Web Development and Systems Administration** - Seattle, WA  
+    *UW Heinecke Lab, Division of Metabolism, Endocrinology and Nutrition*: December 2008 - August 2009
 
 	- Deployed critical Windows and Linux servers for the lab's infrastructure, such as a WSUS patch
 	  management server and OpenVAS for security scanning.
@@ -90,15 +90,15 @@ Experience
 	- Built a ten node Beowulf/OSCAR compute cluster for scientific high performance computing.
 	- Provided help desk support for laboratory members.
 
-*   Student Audio/Visual Specialist - Seattle, WA  
-    UW Pathology: August 2008
+*   **Student Audio/Visual Specialist** - Seattle, WA  
+    *UW Pathology*: August 2008
 
 	- Setup and coordinated the setup of audio/visual equipment and computers for the Vasculata 2008 Course.
 	- Provided technical and computer support before, during and after the course.
 	- Produced DVD recordings of all lectures for distribution to seminar attendees and lecturers.
 
-*   Student Help Desk Technician - Seattle, WA  
-    UW Technology: August 2007 - September 2007
+*   **Student Help Desk Technician** - Seattle, WA  
+    *UW Technology*: August 2007 - September 2007
 
 	- Responsible for providing technical assistance to UW faculty, staff and students via e-mail and phone.
 	- Responsible for providing service for UW proprietary network services, such as web publishing, UWNetID
@@ -106,8 +106,8 @@ Experience
 	- Coordinate with supervisors regarding network issues/problems.
 	- Attend to phone and e-mail inquiries in a timely manner.
 
-*   IT Technician I - Seattle, WA  
-    UW Gastroenterology: June 2004-September 2004
+*   **IT Technician I** - Seattle, WA  
+    *UW Gastroenterology*: June 2004-September 2004
 
 	- Responsible for the setup of computer hardware and the installation of various computer software.
 	- Responsible for the deployment of Microsoft Office 2003 and Microsoft Windows XP to over 100 computers
@@ -118,11 +118,11 @@ Experience
 Education
 ---------
 
-*   University of Washington - Seattle, WA  
-    BA Mathematics and Philosophy: June 2009
+*   **University of Washington** - Seattle, WA  
+    *BA Mathematics and Philosophy*: June 2009
 
-*   Seattle University - Seattle, WA  
-    Freshman - Sophomore, Coursework in Mathematics and Computer Science: Fall 2004 - Fall 2006
+*   **Seattle University** - Seattle, WA  
+    *Freshman - Sophomore, Coursework in Mathematics and Computer Science*: Fall 2004 - Fall 2006
 
 	- Relevant coursework: Introduction to Programming (C++), Databases, Object Oriented Design, Data Structures
 
