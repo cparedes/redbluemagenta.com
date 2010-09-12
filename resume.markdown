@@ -5,7 +5,7 @@ blurb: Here's my resume.
 ---
 
 CHRISTIAN PAREDES
-------------------
+=================
 
 Contact information available upon request.
 
@@ -27,8 +27,13 @@ Summary of Qualifications
 Experience
 ----------
 
+*   Senior System Administrator - Seattle, WA
+    Blue Box Group: September 2010 - Present
+
+	- Haven't started here yet, will update this space when I start.
+
 *   Systems Administrator - Seattle, WA  
-    3TIER Group: July 2010 - Present
+    3TIER Group: July 2010 - September 2010
 
 	- Built our backup infrastructure using Bacula and custom administrative shell scripts.
 	- Provided help desk service for 60+ employees in our Seattle and Panama offices.
@@ -52,13 +57,15 @@ Experience
 	- Created Debian packages for the local repository.
 
 *   Systems and Network Consultant - Seattle, WA  
-    Cafe Allegro: September 2009 - Present
+    Cafe Allegro: September 2009 - September 2010
 
 	- Redesigned the wireless infrastructure from scratch.
 	- Deployed OpenBSD server for routing and firewall services for wireless clients.
 	- Organised a volunteer team of sysadmins, including me, in order to keep the system up and running.
 	- Coordinated with a volunteer project coodinator in sketching out the deployment plan and the
 	  business case for upgrading the system that was already in place.
+	- Handled smooth transition from our managed solution to a self-managed solution after end
+	  of consulting period.
 
 *   Systems Administrator - Seattle, WA  
     Bishop Blanchet High School, Technology Department: August 2009 - February 2010
