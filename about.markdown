@@ -6,8 +6,8 @@ blurb: More about Ian Paredes.
 
 <p><a href="/images/ian.jpg" title="Ian in the flesh" rel="lightbox"><img src="/images/ian.jpg" width="300" height="225" class="aligncenter" /></a></p>
 
-I currently work for [3TIER] [1] as a systems administrator.  I also design
-a few websites as a hobby with XHTML and CSS, and I occasionally
+I currently work for [Blue Box Group] as a senior system administrator.  I also
+design a few websites as a hobby with XHTML and CSS, and I occasionally
 volunteer my time for various nonprofit and academic organizations, such as
 [The Critical Gaming Project] [3] and [Noise for the Needy] [4]. I also
 program in Ruby as a hobby, and more often than not, they are usually apps
@@ -41,7 +41,7 @@ site for a consistent viewing experience.
 
 You can find this theme and all of the posts on this blog on [GitHub].
 
-[1]: http://3tier.com
+[Blue Box Group]: http://blueboxgrp.com
 [2]: http://seattleallegro.com
 [3]: http://depts.washington.edu/critgame
 [4]: http://noisefortheneedy.org

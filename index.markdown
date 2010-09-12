@@ -51,19 +51,19 @@ amount of slave hosts.)
 About Ian Paredes
 -----------------
 
-I currently work for [3TIER] [4] as a systems administrator.  I also design
-a few websites as a hobby with XHTML and CSS, and I occasionally
+I currently work for [Blue Box Group] as a senior system administrator.  I also
+design a few websites as a hobby with XHTML and CSS, and I occasionally
 volunteer my time for various nonprofit and academic organizations, such as
-[The Critical Gaming Project] [6] and [Noise for the Needy] [7]. I also
+[The Critical Gaming Project] and [Noise for the Needy]. I also
 program in Ruby as a hobby, and more often than not, they are usually apps
 on Ruby on Rails.
 
-[Read more...][8]
+[Read more...]
 
 [1]: http://sage.org
 [2]: http://lopsa.org
 [3]: http://www.sage.org/field/jobs-descriptions.html
-[4]: http://3tier.com
-[6]: http://depts.washington.edu/critgame
-[7]: http://noisefortheneedy.org
-[8]: /about.html
+[The Critical Gaming Project]: http://depts.washington.edu/critgame
+[Noise for the Needy]: http://noisefortheneedy.org
+[Read more...]: /about.html
+[Blue Box Group]: http://blueboxgrp.com
