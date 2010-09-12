@@ -27,7 +27,7 @@ Summary of Qualifications
 Experience
 ----------
 
-*   **Senior System Administrator** - Seattle, WA
+*   **Senior System Administrator** - Seattle, WA  
     *Blue Box Group*: September 2010 - Present
 
 	- Haven't started here yet, will update this space when I start.
