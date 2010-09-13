@@ -6,6 +6,7 @@ categories:
 - Programming
 - Emacs
 - SICP
+date: 2010-09-12_19-20
 ---
 
 So, after many jokes between me, my coworkers, and various friends, I've
