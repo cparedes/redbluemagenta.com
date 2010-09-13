@@ -28,7 +28,7 @@ my life, used a credit card.  The payments might seem easy enough at first,
 but the psychical burden of having to worry about debt is just not worth it,
 especially early on in one's career/academic life.  Save your worries for
 other more important things, like your career or your school work.  I take
-a lot of pride in the fact that I've bought everything that I own with my own
+a lot of pride in the fact that I've bought nearly everything that I own with my own
 money - I've actually worked to buy my things without having to sink myself
 into further debt.
 
