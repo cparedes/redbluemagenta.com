@@ -33,7 +33,7 @@ About this site
 ---------------
 
 redbluemagenta is a blog generated with [Jekyll] [8] on a Debian Lenny
-[prgmr.com] [9] virtual slice. The design and code for the website theme was
+[Linode] [9] virtual slice. The design and code for the website theme was
 all done in vim and TextMate with a pinch of Photoshop here and there. For the
 entire development cycle, I've used git for source control and sharing source
 code between multiple machines. I've employed @font-face on two fonts on this
@@ -49,6 +49,6 @@ You can find this theme and all of the posts on this blog on [GitHub].
 [6]: http://www.linkedin.com/in/christianparedes
 [7]: /contact.html
 [8]: http://github.com/mojombo/jekyll
-[9]: http://prgmr.com
+[9]: http://linode.com
 [ian]: /images/ian.jpg
 [GitHub]: http://github.com/cparedes/redbluemagenta.com
