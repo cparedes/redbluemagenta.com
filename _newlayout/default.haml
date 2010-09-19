@@ -1,0 +1,127 @@
+!!!strict
+%html{:xmlns => "http://www.w3.org/1999/xhtml", "xml:lang" => "en", :lang => "en}
+  %head
+    %meta{ 'http-equiv' => "Content-Type", :content => "text/html;charset=UTF-8" }
+    %title
+      redbluemagenta -
+      = h page.title
+
+    %meta{ :name => 'author', :content => 'Christian Paredes (http://redbluemagenta.com)' }
+    %link{ :href => 'http://feeds.feedburner.com/redbluemagenta', :rel => "alternate", :title => "redbluemagenta", :type => 'application/atom.xml' }
+    %link{ :type => 'text/css', :rel => 'stylesheet', :href => '/css/screen.css', :media => "screen, projection" }
+
+    -# Google Analytics
+
+    :plain
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', '{{ site.google_analytics_code }}']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+        })();
+      </script>
+
+    -# JQuery
+
+    :plain
+      <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAANq09klT1jV11eoDoTHKYcBQgldNtY7XzAIvbpdG8a40RaQvOpRSC3gDioum1s_P1ETR-VkWIeKH7lw"></script>
+      <script type="text/javascript">
+        google.load("jquery", "1.4.2");
+      </script>
+
+    -# Slimbox
+
+    %script{ :type => "text/javascript", :src => "/js/slimbox/slimbox2.js" }
+    %script{ :type => "text/javascript", :src => "/js/slimbox/extra/picasaweb.js" }
+    %link{ :rel => "stylesheet", :href => "/js/slimbox/css/slimbox2.css", :type => "text/css", :media => "screen" }
+
+    -# SyntaxHighlighter
+
+    %link{ :href => "/js/syntax/css/shThemeDefault.css", :rel => "stylesheet", :type => "text/css" }
+    %link{ :href => "/js/syntax/css/shCore.css", :rel => "stylesheet", :type => "text/css" }
+    %script{ :src => "/js/syntax/shCore.js", :type => "text/javascript" }
+    %script{ :src => "/js/syntax/shAutoloader.js", :type => "text/javascript" }
+    %script{ :src => "/js/syntax/shBrushCss.js", :type => "text/javascript" }
+    %script{ :src => "/js/syntax/shBrushRuby.js", :type => "text/javascript" }
+    %script{ :src => "/js/syntax/shBrushBash.js", :type => "text/javascript" }
+
+  %body
+    #page
+      #pageSidebar
+        %ul.sidebar#sidebarDesc
+          %li#rbm
+            %a{ :href => "/", :title => "redbluemagenta" } redbluemagenta<span></span>
+          %li#cp
+            Christian "Ian" Paredes
+          %li#cp
+            SAGE L2 Systems Administrator
+
+        %ul.sidebar#sidebarMenu
+          %li
+            %a{ :href => "/about.html" } About
+          %li
+            %a{ :href => "/blog.html" } Blog
+          %li
+            %a{ :href => "/photos.html" } Photos
+          %li
+            %a{ :href => "/resume.html" } Resume
+          %li
+            %a{ :href => "http://github.com/cparedes" } GitHub
+
+          %form#searchform{ :method => "get", :action => "http://www.google.com/search" }
+            %input{ :type => "text", :name => "q", :maxlength => "255" }
+            %input{ :type="hidden", name => "domains", :value => "*.redbluemagenta.com" }
+            %input{ :style => "visibility:hidden", :type => "radio", :name => "sitesearch", :value => "*.redbluemagenta.com", :checked => "checked" }
+
+      #pageBody
+        - if page.blurb
+          #pageBlurb
+            %h1
+              = page.blurb
+
+        = content
+
+        #pageMeta
+          %ul#metacategories
+            %li
+              %h3 Categories
+            - site.categories[(0..4)].each do |category|
+              %li
+                %a{ :href => "/categories/#{ category[0] }.html" }= category[0]
+            %li
+              %a{ :href => "/categories/" } more...
+          %ul#metarecentposts
+            %li
+              %h3 Recent Posts
+            - site.posts[(0..4)].each do |post|
+              %li
+                %a{ :href => "#{ post.url }" }= xml_escape(post.title)
+            %li
+              %a{ :href => "/archive.html" } more...
+          %ul#metasubscribe
+            %li
+              %h3 Subscribe
+            %li
+              %a{ :href => "http://feeds.feedburner.com/redbluemagenta" }
+                %img.regular{ :src => "/images/feed.png" } Atom Feed
+            %li
+              %a{ :href => "http://twitter.com/redbluemagenta" }
+                %img.regular{ :src => "/images/twitter.png", :width => "12", :height => "12" } Twitter
+          %p#credits
+            cp@redbluemagenta.com
+            %br
+            Site Design by Christian Paredes, heavily inspired by <a href="http://cameron.io">cameron.io</a>, (c) 2010. Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>.
+      :javascript
+        // Disqus
+        var disqus_shortname = 'redbluemagenta';
+        (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.src = 'http://disqus.com/forums/redbluemagenta/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+
+      :javascript
+        SyntaxHighlighter.all();
