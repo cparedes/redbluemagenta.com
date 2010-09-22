@@ -2,6 +2,7 @@
 layout: post
 title: "Preparing for the real world from the perspective of a college student"
 published: true
+date: 2010-09-12 12:10:10
 categories:
 - School
 - Work
