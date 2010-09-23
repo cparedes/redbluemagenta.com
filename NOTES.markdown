@@ -27,3 +27,21 @@ area doesn't extend to the bottom of the viewport.
 to the bottom of the viewport.
 * Figure out why -moz-box-shadow/-webkit-box-shadow is slowing down the page
 so much.
+
+Proposed flow for the email script
+----------------------------------
+
+1. Run fetchmail, "listen" on a specific mailbox.
+2. If mail is received, process it through another script that does a bit of
+formatting and outputs a properly formatted post.
+3. Add post to git repository, commit automatically.
+4. Run jekyll command to generate site.
+
+Todo List
+---------
+
+* Figure out how to add a more granular date to each post, so posts within
+the same day will sort properly in chronological order.
+* Hack up a script for my server so that a specified email address receives
+new blog posts, commits the blog posts to the git repository, and then
+publishes the blog post to the website.
