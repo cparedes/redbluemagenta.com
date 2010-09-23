@@ -4,6 +4,7 @@ title: LOPSA Mentorship Program
 categories:
 - LOPSA
 - Systems Administration
+date: 2010-09-23 02:01:30
 ---
 
 We've launched the [LOPSA mentorship program][1] about a week ago, and we're
