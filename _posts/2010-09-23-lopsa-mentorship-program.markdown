@@ -30,8 +30,9 @@ only $35.
 
 Thanks everyone!  And be sure to [sign up][1] if you're interested!
 
-*Official press release:*
-*[http://www.verticalsysadmin.com/lopsa_mentor.txt](http://www.verticalsysadmin.com/lopsa_mentor.txt)*
+Official press release:
+
+[http://www.verticalsysadmin.com/lopsa_mentor.txt](http://www.verticalsysadmin.com/lopsa_mentor.txt)
 
 [1]: http://lospa.org/mentor
 [2]: http://lopsa.org/register
