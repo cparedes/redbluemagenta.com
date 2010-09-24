@@ -119,7 +119,7 @@ Experience
 Volunteer Work
 --------------
 
-*   **Chair of LOPSA Mentorship Program**
+*   **Chair of LOPSA Mentorship Program** 
     *League of Professional System Administrators*: July 2010 - Present
 
 	- Successfully launched the LOPSA mentorship program with a small team of 10 volunteers.
