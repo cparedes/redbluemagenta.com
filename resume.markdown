@@ -109,13 +109,21 @@ Experience
 	- Attend to phone and e-mail inquiries in a timely manner.
 
 *   **IT Technician I** - Seattle, WA  
-    *UW Gastroenterology*: June 2004-September 2004
+    *UW Gastroenterology*: June 2004 - September 2004
 
 	- Responsible for the setup of computer hardware and the installation of various computer software.
 	- Responsible for the deployment of Microsoft Office 2003 and Microsoft Windows XP to over 100 computers
 	  in the division.
 	- Troubleshoot computer problems when they occur.
 
+Volunteer Work
+--------------
+
+*   **Chair of LOPSA Mentorship Program**
+    *League of Professional System Administrators*: July 2010 - Present
+
+	- Successfully launched the LOPSA mentorship program with a small team of 10 volunteers.
+	- Within one week of launch, we've received roughly 15 applications and have setup 7 pairs so far.
 
 Education
 ---------
