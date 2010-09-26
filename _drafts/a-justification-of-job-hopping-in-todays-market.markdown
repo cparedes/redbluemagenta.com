@@ -48,4 +48,7 @@ I also believe that job hoppers are simply trying to find that position,
 and would rather cut off a job than stick it out, so they don't waste anyone's
 time.
 
+Trust me, I'm not completely proud of my job history so far, though I am
+proud of the few things I was able to build for companies within the year.
+
 [1]: http://thedailywtf.com/Articles/Up-or-Out-Solving-the-IT-Turnover-Crisis.aspx
