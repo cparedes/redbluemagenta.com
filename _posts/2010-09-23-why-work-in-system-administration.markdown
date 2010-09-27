@@ -39,7 +39,7 @@ workings of a system, and thus, usually is the domain expert on weird issues
 that happen with machines.  As of late, this knowledge is not necessarily
 valued as much as it was before, but it's still ever more important - for
 instance, when deploying things to EC2 or even bare metal, you need to know
-how to measure IOPs, and you even need to know *why* you're measure that in
+how to measure IOPs, and you even need to know *why* you're measuring that in
 the first place (maybe you're deploying an I/O intensive service?)  When
 deploying services in the cloud, more often than not, you're working with
 machines that are significantly underpowered compared to what you can get
