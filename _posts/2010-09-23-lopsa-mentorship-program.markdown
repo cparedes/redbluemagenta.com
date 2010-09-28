@@ -32,7 +32,7 @@ Thanks everyone!  And be sure to [sign up][1] if you're interested!
 
 Official press release:
 
-[http://www.verticalsysadmin.com/lopsa_mentor.txt](http://www.verticalsysadmin.com/lopsa_mentor.txt)
+[http://lopsa.org/mentor_program_PR](http://lopsa.org/mentor_program_PR)
 
-[1]: http://lospa.org/mentor
+[1]: http://lopsa.org/mentor
 [2]: http://lopsa.org/register
