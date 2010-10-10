@@ -19,7 +19,7 @@ things that's been happening as of late (not necessarily work related.)
 This job is really fucking awesome - I've had several projects thrown at me
 since I've started, and I'm learning quite a bit about everything. Things
 are excellent on this front. This is to no detriment to my previous employer,
-[3TIER]: they're an excellent group to work for, and they're awesome people
+[3TIER].  They're an excellent group to work for, and they're awesome people
 in general.  I just think, at this point in time, I need to get my feet
 very much wet - this means going in head first into crazy problems right away.
 
