@@ -87,3 +87,25 @@ I usually start my numbering from the master, and work my way down.  For
 instance, I'll number my R/W master as server-id = 1, my R/O master as
 server-id = 2, one of the slaves as server-id = 3, etc.
 
+We'll split this step into two parts: first part will be for master
+machines (R/W and R/O), and R/O slave machines.
+
+R/W and R/O masters:
+
+You'll want to make sure that the following are defined in my.cnf:
+
+log-bin = /var/log/mysql/mysql-bin.log
+log-bin-index = /var/log/mysql/mysql-bin.index
+log-slaves-updates
+
+For the R/O master, you'll want to also set read_only = 1.
+
+R/O slave:
+
+relay-log = /var/log/mysql/slave-relay.log
+relay-log-index = /var/log/mysql/slave-relay.index
+relay-log-info = /var/log/mysql/slave-relay.info
+replicate-ignore-db = mysql
+read_only = 1
+
+
