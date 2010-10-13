@@ -243,7 +243,7 @@ data.  Not good.)
 Go to the R/O master's slaves and type the following in:
 
 <pre><code>mysql> START SLAVE;
-<code></pre>
+</code></pre>
 
 Then go to the R/O master and the R/W master's slaves and type the following
 in:
