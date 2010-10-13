@@ -63,7 +63,8 @@ In my particular case, I've shut off the daemon and grabbed a snapshot using
 tar, since I had a spare slave server with an up to date copy of the data.
 I streamed the compressed tar data over SSH to the slave servers:
 
-<pre><code>cd /var/lib ; tar -czf - mysql | ssh <host> "tar -C /destination/folder -zxvf -" </code></pre>
+<pre><code>cd /var/lib ; tar -czf - mysql | \
+ssh <host> "tar -C /destination/folder -zxvf -" </code></pre>
 
 Depending on how large your database is, it may or may not be popcorn time. :)
 
