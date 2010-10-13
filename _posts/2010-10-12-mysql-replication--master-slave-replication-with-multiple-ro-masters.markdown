@@ -8,6 +8,11 @@ categories:
 date: 2010-10-12 20:41:00
 ---
 
+(NOTE: I know, the blog post says that I'm working with multiple R/O masters.
+The guide doesn't tell you how to do such a thing.  However, the principles
+are quite the same, and you can easily extend this guide to make one of your
+other R/O slaves to be an R/O master.)
+
 So, after battling MySQL for a couple of days, I've come out with a bit more
 experience with replication and a few pitfalls that I've encountered that you
 may encounter as well.
