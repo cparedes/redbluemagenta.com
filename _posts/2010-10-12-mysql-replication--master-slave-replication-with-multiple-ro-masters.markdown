@@ -74,7 +74,8 @@ By default, these files are stored in /var/lib/mysql.
 
 Remove all of them:
 
-<pre><code>cd /var/lib/mysql ; rm mysql-bin* slave-relay-bin* relay-log* mysqld-relay-bin* master.info</code></pre>
+<pre><code>cd /var/lib/mysql ; rm mysql-bin* slave-relay-bin* \
+relay-log* mysqld-relay-bin* master.info</code></pre>
 
 Step 3: Setup my.cnf on the master and all slave machines.
 ----------------------------------------------------------
@@ -100,18 +101,18 @@ R/W and R/O masters:
 
 You'll want to make sure that the following are defined in my.cnf:
 
-log-bin = /var/log/mysql/mysql-bin.log
-log-bin-index = /var/log/mysql/mysql-bin.index
-log-slaves-updates
+log-bin = /var/log/mysql/mysql-bin.log  
+log-bin-index = /var/log/mysql/mysql-bin.index  
+log-slaves-updates  
 
 For the R/O master, you'll want to also set read_only = 1.
 
 R/O slave:
 
-relay-log = /var/log/mysql/slave-relay.log
-relay-log-index = /var/log/mysql/slave-relay.index
-relay-log-info = /var/log/mysql/slave-relay.info
-replicate-ignore-db = mysql
+relay-log = /var/log/mysql/slave-relay.log  
+relay-log-index = /var/log/mysql/slave-relay.index  
+relay-log-info = /var/log/mysql/slave-relay.info  
+replicate-ignore-db = mysql  
 read_only = 1
 
 One more note: make sure skip-slave-start is set on all slave machines in
@@ -143,9 +144,12 @@ Alright, let's login to the R/W master and grant replication rights to its
 three slaves:
 
 <pre><code>rwmaster# mysql -u root
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.2' IDENTIFIED BY 'foobar';
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.3' IDENTIFIED BY 'foobar';
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.4' IDENTIFIED BY 'foobar';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.2' IDENTIFIED BY 'foobar';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.3' IDENTIFIED BY 'foobar';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.4' IDENTIFIED BY 'foobar';
 mysql> FLUSH PRIVILEGES;
 mysql> \q</code></pre>
 
@@ -157,9 +161,12 @@ Now, let's login to the R/O master and grant replication rights to its three
 slaves:
 
 <pre><code>romaster# mysql -u root
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.11' IDENTIFIED BY 'barfoo';
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.12' IDENTIFIED BY 'barfoo';
-mysql> GRANT REPLICATION SLAVE ON *.* TO 'replicate'@'10.0.0.13' IDENTIFIED BY 'barfoo';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.11' IDENTIFIED BY 'barfoo';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.12' IDENTIFIED BY 'barfoo';
+mysql> GRANT REPLICATION SLAVE ON *.* TO \
+'replicate'@'10.0.0.13' IDENTIFIED BY 'barfoo';
 mysql> FLUSH PRIVILEGES;
 mysql> \q</code></pre>
 
@@ -199,7 +206,13 @@ We're going to start with the R/W master's direct slaves.
 
 Connect to each slave and enter in the following information:
 
-<pre><code>mysql> CHANGE MASTER TO MASTER_HOST='10.0.0.1', MASTER_PORT='3306', MASTER_LOG_FILE='mysql-bin.log.000500', MASTER_LOG_POS='5150150', MASTER_USER='replicate', MASTER_PASSWORD='foobar';
+<pre><code>mysql> CHANGE MASTER TO \
+MASTER_HOST='10.0.0.1', \
+MASTER_PORT='3306', \
+MASTER_LOG_FILE='mysql-bin.log.000500', \
+MASTER_LOG_POS='5150150', \
+MASTER_USER='replicate', \
+MASTER_PASSWORD='foobar';
 </code></pre>
 
 where MASTER_LOG_FILE and MASTER_LOG_POS is grabbed from the output of
@@ -208,7 +221,13 @@ where MASTER_LOG_FILE and MASTER_LOG_POS is grabbed from the output of
 Now, connect to the R/O slaves that are connected directly to the R/O slave,
 connect to the MySQL daemon, then type in the following:
 
-<pre><code>mysql> CHANGE MASTER TO MASTER_HOST='10.0.0.4', MASTER_PORT='3306', MASTER_LOG_FILE='mysql-bin.log.000001', MASTER_LOG_POS='4', MASTER_USER='replicate', MASTER_PASSWORD='barfoo';</code></pre>
+<pre><code>mysql> CHANGE MASTER TO \
+MASTER_HOST='10.0.0.4', \
+MASTER_PORT='3306', \
+MASTER_LOG_FILE='mysql-bin.log.000001', \
+MASTER_LOG_POS='4', \
+MASTER_USER='replicate', \
+MASTER_PASSWORD='barfoo';</code></pre>
 
 In order to be extra cautious about the data on each slave, we want to start
 from the least significant slaves (the ones attached to the R/O master, since
