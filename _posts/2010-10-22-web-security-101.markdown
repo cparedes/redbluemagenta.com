@@ -33,14 +33,6 @@ I'll go ahead and enumerate each issue under a different header and explain
 a few of the basic things that one needs to keep in mind when uploading stuff
 to a server, and writing up static web pages.
 
-Terminology
------------
-
-Sorry to be pedantic, but there's a couple of terms we need to define before
-we move on.
-
-* Web server: the machine that holds the actual content for the web page.
-
 File Permissions
 ----------------
 
