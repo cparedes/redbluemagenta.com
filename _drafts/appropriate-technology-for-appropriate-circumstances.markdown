@@ -31,4 +31,7 @@ key value stores, then it'll work wonders for you.  Otherwise, you're just
 using a hammer on a screw.
 
 Another great example is choosing programming languages for a specific task.
+Often, the best programming language (for us) is one that allows us to
+express our thoughts quickly.  However, the best programming language,
+for the business, is one that fits the problem domain and/or the politics.
 
