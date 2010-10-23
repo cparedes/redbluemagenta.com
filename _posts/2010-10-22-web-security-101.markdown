@@ -53,9 +53,10 @@ file nor a part of the group that owns the file.
 On UNIX, this is expressed in a three digit number attached to each file and
 directory.
 
-<pre><code>  7    7    7
-             |    |    |
-          owner group world</code></pre>
+<pre><code>
+7    7    7
+|    |    |
+owner group world</code></pre>
 
 These numbers specify exactly what sort of permissions are applied to the file
 for each user, group, and everyone else.  (In this particular case, 777 =
