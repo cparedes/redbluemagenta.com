@@ -2,7 +2,8 @@
 layout: post
 title: Web Security 101
 categories:
-- System Administration
+- Systems Administration
+date: 2010-10-22 17:12:00
 ---
 
 A friend of mine recently asked me what sort of security issues she should
@@ -32,40 +33,13 @@ I'll go ahead and enumerate each issue under a different header and explain
 a few of the basic things that one needs to keep in mind when uploading stuff
 to a server, and writing up static web pages.
 
-Preliminary Concepts
---------------------
+Terminology
+-----------
 
-First, we'll talk about what happens when someone types in "google.com" in
-their web browser.
+Sorry to be pedantic, but there's a couple of terms we need to define before
+we move on.
 
-Each machine on a network has an address called an "IP address" - this is
-roughly equivalent to someone's mailing address.  There's also an address
-called a "MAC address", which is roughly equivalent to someone's SSN
-(someone can move to different houses, but that person is still the same
-person.)  We contact other machines in other networks by using their IP
-address - the IP address uniquely identifies a device's location, and also,
-according to the numbering scheme, tells devices in between you and the
-end point *where to go* to send the information to the other end.
-
-Now, IP addresses are mostly for machines to process and figure out exactly
-where to route packets across the internet.  For humans, however, it's
-not exactly readable nor memorable - I'd rather remember something like
-"google" than "74.125.53.103."
-
-This is where "domain name servers" (DNS) comes in; they are servers that
-tell other machines what's mapped between human readable names and IP
-addresses.  Every time I use a name like "google.com" in any application,
-I implicitly contacting my ISP's DNS servers to ask which IP address
-"google.com" maps to.
-
-(You might be asking, "why did he go over all of this?"  When you want to
-have your website be accessible with a human readable URL, you can't just
-upload your stuff to a web server and call it good - you'll also have to
-sign up for a domain name, and explicitly set up the "binding" between the
-IP address and your domain name for your website.  The web server contains
-all of the HTML/CSS stuff, and the DNS server only contains information
-on how to map your IP address for the web server to a human readable name,
-like "foobar.com.")
+* Web server: the machine that holds the actual content for the web page.
 
 File Permissions
 ----------------
@@ -137,4 +111,50 @@ much separation between each user on the system, that means any other customer
 can easily muck up your website without as much having explicit access to
 *your* account.
 
-When in doubt, 
+When in doubt, use "644" permissions on your files.  That sets the file to be,
+as you might guess by now, read/write for the owner, and read only for everyone
+else.  For directories, use "755" permissions.  If you set directories to not
+have the execute permission set for a specific user/group, then you won't be
+able to change over to that directory in the future (this is easily fixed by
+setting the permissions back to 755.)
+
+Firewalls
+---------
+
+Typically, if you're using another web provider like A Small Orange or
+whoever else, you won't have to worry too much about this - they usually take
+care of those issues for you.
+
+However, if you're using a "virtual private server" (VPS) provider like
+Linode, prgmr, Slicehost, or Blue Box Group (yeah, sorry, shameless plug :)),
+or even your own server in your house, then you'll have to worry about setting
+up a firewall.
+
+Usually, you can setup the firewall to block all incoming traffic BUT the
+specific set of traffic associated with someone browsing a website.  The
+best way to determine, uniquely, whether someone's browsing a website or not,
+is by looking at what port they're trying to use.  For web traffic, the port
+number is port 80.  If you're serving secure content through HTTPS, then you'll
+have to open up port 443 as well.
+
+I can't possibly cover all of the different firewall products out there, so
+all I can say is that you should take a look at your firewall/router manual
+and see how you can do port forwarding for a particular machine.
+
+HTTPS
+-----
+
+[This wikipedia article](http://en.wikipedia.org/wiki/HTTPS) does a way
+better job of explaining the issue than I ever could.
+
+In short, you want to make sure that the server is vouched by some sort
+third party as a "legitimate website", and you want to make sure that any
+sensitive information (like passwords and the like) are transmitted in
+HTTPS.  HTTPS guarantees that any data being transferred between two
+parties (in this case, you and the server) is not transmitted in clear text.
+
+Conclusion
+----------
+
+This article ended up being much longer than I thought. :)  If anyone needs
+any clarification on any of the concepts, let me know.
